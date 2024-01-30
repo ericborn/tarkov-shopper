@@ -184,17 +184,17 @@ const SearchableList = () => {
           {selectedItems.map((selectedItem) => (
             <li key={selectedItem.id}>
               <img
-                src={selectedItem.image}  // Replace 'image' with the actual property name in your data
+                src={selectedItem.image}
                 alt={selectedItem.name}
                 style={{ width: '50px', marginRight: '10px' }}  // Adjust styles as needed
               />
               {selectedItem.name} - Quantity: {selectedItem.quantity}{' '}
-              <button onClick={() => handleIncreaseQuantity(selectedItem.id)}>
-                Increase
-              </button>{' '}
               <button onClick={() => handleDecreaseQuantity(selectedItem.id)}>
-                Decrease
+                -
               </button>
+              <button onClick={() => handleIncreaseQuantity(selectedItem.id)}>
+                +
+              </button>{' '}
             </li>
           ))}
         </ul>
