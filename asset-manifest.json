@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/tarkov-shopper/static/css/main.330e8e2e.css",
-    "main.js": "/tarkov-shopper/static/js/main.1c99e172.js",
+    "main.js": "/tarkov-shopper/static/js/main.afff9cae.js",
     "static/js/787.8b3cdc79.chunk.js": "/tarkov-shopper/static/js/787.8b3cdc79.chunk.js",
     "index.html": "/tarkov-shopper/index.html",
     "main.330e8e2e.css.map": "/tarkov-shopper/static/css/main.330e8e2e.css.map",
-    "main.1c99e172.js.map": "/tarkov-shopper/static/js/main.1c99e172.js.map",
+    "main.afff9cae.js.map": "/tarkov-shopper/static/js/main.afff9cae.js.map",
     "787.8b3cdc79.chunk.js.map": "/tarkov-shopper/static/js/787.8b3cdc79.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.330e8e2e.css",
-    "static/js/main.1c99e172.js"
+    "static/js/main.afff9cae.js"
   ]
 }
