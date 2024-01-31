@@ -26,14 +26,14 @@ def similar(a, b):
 def build_match_list(item_name, image_name):
     jaro_match = jellyfish.jaro_winkler_similarity(item_name, image_name)
     similar_match = similar(item_name, image_name)
-    fuzz_ratio_match = fuzz.ratio(item_name, image_name)
-    fuzz_partial_match = fuzz.partial_ratio(item_name, image_name)
+    #fuzz_ratio_match = fuzz.ratio(item_name, image_name)
+    #fuzz_partial_match = fuzz.partial_ratio(item_name, image_name)
     
     results = {
         'jaro': [item_name, image_name, jaro_match * 100],
         'simi': [item_name, image_name, similar_match * 100],
-        'fuzz': [item_name, image_name, fuzz_ratio_match],
-        'fuzz-partial': [item_name, image_name, fuzz_partial_match]    
+        # 'fuzz': [item_name, image_name, fuzz_ratio_match],
+        # 'fuzz-partial': [item_name, image_name, fuzz_partial_match]    
     }
     
     best_match = max(results, key=lambda key:results[key][2])
@@ -93,6 +93,7 @@ delete_list = []
 
 match_list = []
 
+# compare name to shortname
 for image in image_list:
     #print(image.split('_')[0])
     for row in range(len(json_data)):
@@ -102,7 +103,12 @@ for image in image_list:
         if result[0] != None or result[1] != None:
             match_list.append(result)
 
-any(match_list[0])
+# apply name to json list
+for image in image_list:
+    for row in range(len(json_data)):
+        result = build_match_list(json_data[row]['name'],image.split('.')[0])
+        if result != None:
+            json_data[row]['image'] = result
 
 no_image_list = []
 for row in range(len(json_data)):

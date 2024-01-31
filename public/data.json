@@ -12369,19 +12369,19 @@
         "id": "5ed515c8d380ab312177c0fa",
         "name": "3-(b-TG) stimulant injector",
         "shortname": "3bTG",
-        "image": "images/injector_case.webp"
+        "image": "images/3btg.webp"
     },
     {
         "id": "5ed515e03a40a50460332579",
         "name": "L1 (Norepinephrine) injector",
         "shortname": "L1",
-        "image": "images/injector_case.webp"
+        "image": "images/l1.webp"
     },
     {
         "id": "5ed515ece452db0eb56fc028",
         "name": "P22 (Product 22) stimulant injector",
         "shortname": "P22",
-        "image": "images/east_222.webp"
+        "image": "images/p22.webp"
     },
     {
         "id": "5ed515f6915ec335206e4152",
