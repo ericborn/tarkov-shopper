@@ -153,7 +153,7 @@ const SearchableList = () => {
             </div>
             <div>
                 <h2>Selected Items</h2>
-                <div>
+                <div style={{ marginBottom: '10px' }}>
                     <label for='load'>Load a saved set:</label>
                     <br />
                     <input
@@ -187,9 +187,9 @@ const SearchableList = () => {
                         Sort by Lowest Quantity
                     </button>
                 </div>
-                <ul>
+                <ul style={{ display: 'flex', flexDirection: 'column', gap: '10px' }}>
                     {selectedItems.map((selectedItem) => (
-                        <li key={selectedItem.id}>
+                        <li key={selectedItem.id} style={{ display: 'flex', alignItems: 'center' }}>
                             <img
                                 src={selectedItem.image}
                                 alt={selectedItem.name}
@@ -204,7 +204,7 @@ const SearchableList = () => {
                         </li>
                     ))}
                 </ul>
-                <button class='btn btn-primary' onClick={handleClearSelectedItems}>
+                <button class='btn btn-primary' onClick={handleClearSelectedItems} style={{ marginTop: '10px' }}>
                     Clear Selected Items
                 </button>
             </div>
