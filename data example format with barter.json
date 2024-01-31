@@ -1,0 +1,50 @@
+{
+    "1": {
+	    "Name": "Toolset",
+	    "Barter": [
+	        {
+	            "TraderName": "Mechanic"
+	        }
+	    ],
+	    "Inputs": [
+	        {
+	            "Element": {
+	                "RowName": "Pliers"
+	            },
+	            "Count": 1
+	        },
+	        {
+	            "Element": {
+	                "RowName": "Screwdriver"
+	            },
+	            "Count": 1
+	        },
+	        {
+	            "Element": {
+	                "RowName": "Wrench"
+	            },
+	            "Count": 1
+	        },
+	        {
+	            "Element": {
+	                "RowName": "Insulating tape"
+	            },
+	            "Count": 1
+	        },
+	        {
+	            "Element": {
+	                "RowName": "Construction measuring tape"
+	            },
+	            "Count": 1
+	        }
+	    ],
+	    "Outputs": [
+	        {
+	            "Element": {
+	                "RowName": "Toolset"
+	            },
+	            "Count": 1
+	        }
+	    ]
+	}
+}
