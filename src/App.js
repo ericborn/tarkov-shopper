@@ -142,18 +142,22 @@ const SearchableList = () => {
 
     return (
 
-    <div style={{  padding: "10px" }}>
-      <div style={{  padding: "10px" }}>
+    <div style={{ padding: "35px" }}>
+
+      <div class="navbar rounded-box bg-primary text-primary-content">
+        <button class="btn btn-ghost text-xl">Tarkov Shopper</button>
+      </div>
+      <div style={{ marginTop: '10px' }}>
         <input
           type="text"
-          placeholder="Search..."
+          placeholder="Search for an item..."
           class="input input-bordered input-primary w-full max-w-xs"
           value={searchTerm}
           onChange={handleSearchChange}
         />
         <ul style={{ listStyleType: 'none' }}>
           {displayedItems.map((item) => (
-            <li style={{  padding: "3px" }}>
+            <li style={{ marginTop: '10px' }}>
               <button class="btn btn-primary" style={{  padding: "3px" }} key={item.id} onClick={() => handleItemClick(item.id)}>
                 {item.name}
               </button>
@@ -167,20 +171,21 @@ const SearchableList = () => {
           <label for="load">Load a saved set:</label>
           <br/>
           <input type="file" id="load" name="load" accept=".json"
+          class="file-input file-input-bordered file-input-primary w-full max-w-xs"
             onChange={handleImportSelectedItems}/>
           
           <br/>
           <br/>
           <label for="save">Save Current Item Set:</label>
           <br/>
-          <button onClick={handleSaveSelectedItems}>Save</button>
+          <button class="btn btn-primary" onClick={handleSaveSelectedItems}>Save</button>
           <br/>
           <br/>
-          <button onClick={handleSortAlphabetically}>Sort A-Z</button>
-          <button onClick={handleSortReverseAlphabetically}>Sort Z-A</button>
-          <button onClick={handleSortByTotalQuantity}>
+          <button class="btn btn-primary" onClick={handleSortAlphabetically}>Sort A-Z</button>
+          <button class="btn btn-primary" onClick={handleSortReverseAlphabetically}>Sort Z-A</button>
+          <button class="btn btn-primary" onClick={handleSortByTotalQuantity}>
             Sort by Total Quantity</button>
-          <button onClick={handleSortByReverseTotalQuantity}>
+          <button class="btn btn-primary" onClick={handleSortByReverseTotalQuantity}>
             Sort by Lowest Quantity</button>
           
         </div>
@@ -202,8 +207,7 @@ const SearchableList = () => {
             </li>
           ))}
         </ul>
-        <button onClick={handleClearSelectedItems}>Clear Selected Items</button>
-        <button class="btn">Button</button>
+        <button class="btn btn-primary" onClick={handleClearSelectedItems}>Clear Selected Items</button>
       </div>
     </div>
   );
