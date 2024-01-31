@@ -141,18 +141,22 @@ const SearchableList = () => {
   };
 
     return (
-    <div>
-      <div>
+
+    <div style={{  padding: "10px" }}>
+      <div style={{  padding: "10px" }}>
         <input
           type="text"
           placeholder="Search..."
+          class="input input-bordered input-primary w-full max-w-xs"
           value={searchTerm}
           onChange={handleSearchChange}
         />
-        <ul>
+        <ul style={{ listStyleType: 'none' }}>
           {displayedItems.map((item) => (
-            <li key={item.id} onClick={() => handleItemClick(item.id)}>
-              {item.name}
+            <li style={{  padding: "3px" }}>
+              <button class="btn btn-primary" style={{  padding: "3px" }} key={item.id} onClick={() => handleItemClick(item.id)}>
+                {item.name}
+              </button>
             </li>
           ))}
         </ul>
@@ -180,13 +184,13 @@ const SearchableList = () => {
             Sort by Lowest Quantity</button>
           
         </div>
-        <ul>
+        <ul >
           {selectedItems.map((selectedItem) => (
             <li key={selectedItem.id}>
               <img
                 src={selectedItem.image}
                 alt={selectedItem.name}
-                style={{ width: '50px', marginRight: '10px' }}  // Adjust styles as needed
+                style={{ width: '64px', height: '64px', marginRight: '10px', marginLeft: '10px' }}  // Adjust styles as needed
               />
               {selectedItem.name} - Quantity: {selectedItem.quantity}{' '}
               <button onClick={() => handleDecreaseQuantity(selectedItem.id)}>
@@ -199,6 +203,7 @@ const SearchableList = () => {
           ))}
         </ul>
         <button onClick={handleClearSelectedItems}>Clear Selected Items</button>
+        <button class="btn">Button</button>
       </div>
     </div>
   );
