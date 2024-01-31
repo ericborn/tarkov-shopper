@@ -1,4 +1,4 @@
-name: Deploy on Master Push
+name: Build & deploy
 
 on:
     push:
@@ -6,25 +6,49 @@ on:
             - master
 
 jobs:
-    deploy:
+    build:
+        name: Build
         runs-on: ubuntu-latest
 
         steps:
-            - name: Checkout Repository
+            - name: Checkout code
               uses: actions/checkout@v2
 
-            - name: Set up Node.js
-              uses: actions/setup-node@v2
+            - name: Installing Node.js
+              uses: actions/setup-node@v1
               with:
-                  node-version: '18' # Set this to the Node.js version your project uses
+                  node-version: 18.x
 
-            - name: Install Dependencies
-              run: npm install
+            - name: Installing NPM packages
+              run: npm ci
 
-            - name: Configure Git
-              run: |
-                  git config --global user.name "${{ github.actor }}"
-                  git config --global user.email "${{ github.actor }}@users.noreply.github.com"
+            - name: Building project
+              run: npm run build
 
-            - name: Run Deploy Script
-              run: npm run deploy
+            - name: Running tests
+              run: npm run test
+
+            - name: Uploading production-ready build files
+              uses: actions/upload-artifact@v2
+              with:
+                  name: production-files
+                  path: ./build
+
+    deploy:
+        name: Deploy
+        needs: build
+        runs-on: ubuntu-latest
+        if: github.ref == 'refs/heads/master'
+
+        steps:
+            - name: Downloading artifact
+              uses: actions/download-artifact@v2
+              with:
+                  name: production-files
+                  path: ./build
+
+            - name: Deploying to gh-pages
+              uses: peaceiris/actions-gh-pages@v3
+              with:
+                  github_token: ${{ secrets.GITHUB_TOKEN }}
+                  publish_dir: ./build
