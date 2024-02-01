@@ -87,7 +87,7 @@
         "id": "544a11ac4bdc2d470e8b456a",
         "name": "Secure container Alpha",
         "shortname": "Alpha",
-        "image": ""
+        "image": "images/alpha_icon.webp"
     },
     {
         "id": "544a378f4bdc2d30388b4567",
@@ -153,7 +153,7 @@
         "id": "544fb37f4bdc2dee738b4567",
         "name": "Analgin painkillers",
         "shortname": "Analgin",
-        "image": "images/adrenaline.webp"
+        "image": "images/analgin_painkillers_Icon.webp"
     },
     {
         "id": "544fb3f34bdc2d03748b456a",
@@ -171,7 +171,7 @@
         "id": "544fb5454bdc2df8738b456a",
         "name": "Leatherman Multitool",
         "shortname": "MultiTool",
-        "image": "images/tools.webp"
+        "image": "images/Multitoolicon.webp"
     },
     {
         "id": "544fb62a4bdc2dfb738b4568",
@@ -183,7 +183,7 @@
         "id": "544fb6cc4bdc2d34748b456e",
         "name": "Slickers chocolate bar",
         "shortname": "Slickers",
-        "image": "images/army_crackers.webp"
+        "image": "images/Slickers_bar_icon.webp"
     },
     {
         "id": "54527a984bdc2d4e668b4567",
@@ -210,21 +210,9 @@
         "image": ""
     },
     {
-        "id": "5464e0404bdc2d2a708b4567",
-        "name": "Ammo",
-        "shortname": "Ammo",
-        "image": ""
-    },
-    {
         "id": "557ff21e4bdc2d89578b4586",
         "name": "Tactical glasses",
         "shortname": "TGlasses",
-        "image": ""
-    },
-    {
-        "id": "557ffd194bdc2d28148b457f",
-        "name": "Pockets",
-        "shortname": "Pockets",
         "image": ""
     },
     {
@@ -237,7 +225,7 @@
         "id": "55801eed4bdc2d89578b4588",
         "name": "SV-98 7.62x54R bolt-action sniper rifle",
         "shortname": "SV-98",
-        "image": "images/bolts.webp"
+        "image": "images/Sv98.webp"
     },
     {
         "id": "5580223e4bdc2d1c128b457f",
