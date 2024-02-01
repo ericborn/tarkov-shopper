@@ -68,7 +68,8 @@ def build_match_list(item_name, image_name):
 
 
 # rename all files in a folder to lowercase, swap - for _, remove icon
-image_folder = 'C:/Users/eric/tarkov-shopper/public/images/'
+#image_folder = 'C:/Users/eric/tarkov-shopper/public/images/'
+image_folder = 'C:/Users/Eric/Documents/GitHub/tarkov-shopper/public/images/'
 image_list = os.listdir(image_folder)
     
 for image in range(len(image_list)):
@@ -77,7 +78,8 @@ for image in range(len(image_list)):
     os.renames(image_folder+image_list[image], image_folder+image_list[image].replace('_icon', ''))
     os.renames(image_folder+image_list[image], image_folder+image_list[image].replace('icon', ''))
         
-json_folder = 'C:/Users/eric/tarkov-shopper/public/'
+#json_folder = 'C:/Users/eric/tarkov-shopper/public/'
+json_folder = 'C:/Users/Eric/Documents/GitHub/tarkov-shopper/public/'
 json_data = load_json(json_folder+'data.json')
 image_path = json_folder + 'images/'
 delete_list = []
@@ -113,7 +115,8 @@ for image in image_list:
 no_image_list = []
 for row in range(len(json_data)):
     if json_data[row]['image'] == '':
-        no_image_list.append(json_data[row])
+        #no_image_list.append(json_data[row])
+        json_data[row]['image'] = 'images/missing.webp'
         
 # format back to json
 json_object = json.dumps(json_data, indent=4)
