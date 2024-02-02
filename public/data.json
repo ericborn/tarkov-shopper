@@ -5375,13 +5375,13 @@
         "id": "5a8036fb86f77407252ddc02",
         "name": "Shoreline plan map",
         "shortname": "Shoreline",
-        "image": "images/horse_figurine.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5a80a29286f7742b25692012",
         "name": "Shoreline Health Resort plan map",
         "shortname": "Resort",
-        "image": "images/east_107_resort.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5a9548c9159bd400133e97b3",
@@ -5411,37 +5411,37 @@
         "id": "5a9685b1a2750c0032157104",
         "name": "Glock Moto Cut pistol slide",
         "shortname": "G MotoCut",
-        "image": "images/tools.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5a9d56c8a2750c0032157146",
         "name": "AK Strike Industries TRAX 1 handguard",
         "shortname": "TRAX 1",
-        "image": "images/strike.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5a9d6d00a2750c5c985b5305",
         "name": "Strike Industries KeyMod 4 inch rail",
         "shortname": "SI 4",
-        "image": "images/strike.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5a9d6d13a2750c00164f6b03",
         "name": "Strike Industries KeyMod 6 inch rail",
         "shortname": "SI 6",
-        "image": "images/strike.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5a9d6d21a2750c00137fa649",
         "name": "Strike Industries TRAX bridge rail",
         "shortname": "TRAX Bridge",
-        "image": "images/strike.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5a9d6d34a2750c00141e07da",
         "name": "AK Strike Industries TRAX 2 handguard extension",
         "shortname": "TRAX 2",
-        "image": "images/strike.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5a9e81fba2750c00164f6b11",
@@ -5513,31 +5513,31 @@
         "id": "5aa2b8d7e5b5b00014028f4a",
         "name": "Police cap",
         "shortname": "Police",
-        "image": "images/policetruck.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5aa2b923e5b5b000137b7589",
         "name": "Round frame sunglasses",
         "shortname": "RGlasses",
-        "image": "images/missing.webp"
+        "image": "images/Round_frame_sunglasses_icon.webp"
     },
     {
         "id": "5aa2b986e5b5b00014028f4c",
         "name": "Dundukk sport sunglasses",
         "shortname": "Dundukk",
-        "image": "images/missing.webp"
+        "image": "images/Dundukk_sport_sunglasses_icon.webp"
     },
     {
         "id": "5aa2b9aee5b5b00015693121",
         "name": "RayBench Hipster Reserve sunglasses",
         "shortname": "RayBench",
-        "image": "images/wrench.webp"
+        "image": "images/RayBench_Hipster_Reserve_Sunglasses_icon.webp"
     },
     {
         "id": "5aa2b9ede5b5b000137b758b",
         "name": "Kinda cowboy hat",
         "shortname": "Cowboy",
-        "image": "images/cat.webp"
+        "image": "images/Cow_boy_hat_icon.webp"
     },
     {
         "id": "5aa2ba19e5b5b00014028f4e",
@@ -5567,7 +5567,7 @@
         "id": "5aa66be6e5b5b0214e506e97",
         "name": "Nightforce ATACR 7-35x56 34mm riflescope",
         "shortname": "ATACR 7-35x56",
-        "image": "images/fleec.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5aa66c72e5b5b00016327c93",
@@ -5681,13 +5681,13 @@
         "id": "5aafbcd986f7745e590fff23",
         "name": "Medicine case",
         "shortname": "Medicine",
-        "image": "images/missing.webp"
+        "image": "images/Medscaseicon.webp"
     },
     {
         "id": "5aafbde786f774389d0cbc0f",
         "name": "Ammunition case",
         "shortname": "Ammo",
-        "image": "images/missing.webp"
+        "image": "images/Ammocaseicon.webp"
     },
     {
         "id": "5ab24ef9e5b5b00fe93c9209",
@@ -5759,7 +5759,7 @@
         "id": "5ab8f04f86f774585f4237d8",
         "name": "Tactical sling bag (Khaki)",
         "shortname": "Sling",
-        "image": "images/skullring.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5ab8f20c86f7745cdb629fb2",
@@ -5807,7 +5807,7 @@
         "id": "5abcbb20d8ce87001773e258",
         "name": "M14 SA Enlarged Military Aperture rear sight",
         "shortname": "M14 RS",
-        "image": "images/diary.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5abcbc27d8ce8700182eceeb",
@@ -5831,7 +5831,7 @@
         "id": "5abcd472d8ce8700166032ae",
         "name": "AKMSN shoulder piece (6P4N Sb.1-19)",
         "shortname": "6P4N Sb.1-19",
-        "image": "images/shroud.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5ac4c50d5acfc40019262e87",
@@ -5861,7 +5861,7 @@
         "id": "5ac620eb86f7743a8e6e0da0",
         "name": "Package of graphics cards",
         "shortname": "Package",
-        "image": "images/graphics_card.webp"
+        "image": "images/Package_with_graphics_cards_icon.webp"
     },
     {
         "id": "5ac66bea5acfc43b321d4aec",
@@ -5957,7 +5957,7 @@
         "id": "5ac78a9b86f7741cca0bbd8d",
         "name": "Signal Jammer",
         "shortname": "Jammer",
-        "image": "images/missing.webp"
+        "image": "images/Signal_Jammer_icon.webp"
     },
     {
         "id": "5ac78eaf5acfc4001926317a",
@@ -5975,25 +5975,25 @@
         "id": "5ad5ccd186f774446d5706e9",
         "name": "OLI administration office key",
         "shortname": "OLI office",
-        "image": "images/missing.webp"
+        "image": "images/OLIAdminOffice.webp"
     },
     {
         "id": "5ad5cfbd86f7742c825d6104",
         "name": "OLI logistics department office key",
         "shortname": "OLI Log.",
-        "image": "images/missing.webp"
+        "image": "images/LogOfficeKey.webp"
     },
     {
         "id": "5ad5d20586f77449be26d877",
         "name": "OLI outlet utility room key",
         "shortname": "OLI util.",
-        "image": "images/missing.webp"
+        "image": "images/OLIUtiKey.webp"
     },
     {
         "id": "5ad5d49886f77455f9731921",
         "name": "Power substation utility cabin key",
         "shortname": "Power",
-        "image": "images/cabinet_key.webp"
+        "image": "images/Power_utility_Key_icon.webp"
     },
     {
         "id": "5ad5d64486f774079b080af8",
@@ -6005,19 +6005,19 @@
         "id": "5ad5d7d286f77450166e0a89",
         "name": "Kiba Arms outer door key",
         "shortname": "KIBA outer",
-        "image": "images/missing.webp"
+        "image": "images/kiba_outer.webp"
     },
     {
         "id": "5ad5db3786f7743568421cce",
         "name": "EMERCOM medical unit key",
         "shortname": "EMC",
-        "image": "images/missing.webp"
+        "image": "images/EMERCOM_Key_icon.webp"
     },
     {
         "id": "5ad7217186f7746744498875",
         "name": "OLI cash register key",
         "shortname": "OLI reg.",
-        "image": "images/idearegisterkey.webp"
+        "image": "images/oli_cash_register.webp"
     },
     {
         "id": "5ad7242b86f7740a6a3abd43",
@@ -6029,19 +6029,13 @@
         "id": "5ad7247386f7747487619dc3",
         "name": "Goshan cash register key",
         "shortname": "Goshan reg.",
-        "image": "images/idearegisterkey.webp"
-    },
-    {
-        "id": "5ad74cf586f774391278f6f0",
-        "name": "Cash register TAR2-2",
-        "shortname": "Cash register TAR2-2",
-        "image": "images/missing.webp"
+        "image": "images/goshan_key.webp"
     },
     {
         "id": "5addaffe86f77470b455f900",
         "name": "Kiba Arms inner grate door key",
         "shortname": "KIBA inner",
-        "image": "images/missing.webp"
+        "image": "images/kiba_inner.webp"
     },
     {
         "id": "5addba3e5acfc4001669f0ab",
@@ -6053,7 +6047,7 @@
         "id": "5addbac75acfc400194dbc56",
         "name": "M1A 7.62x51 22 inch barrel",
         "shortname": "M1A 22",
-        "image": "images/p22.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5addbb6e5acfc408fb1393fd",
@@ -6149,7 +6143,7 @@
         "id": "5addcce35acfc4001a5fc635",
         "name": "M14 7.62x51 30-round magazine",
         "shortname": "M14",
-        "image": "images/dorm_114.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5addccf45acfc400185c2989",
@@ -6164,22 +6158,10 @@
         "image": "images/missing.webp"
     },
     {
-        "id": "5ae083b25acfc4001a5fc702",
-        "name": "Master Hand",
-        "shortname": "Master Hand",
-        "image": "images/missing.webp"
-    },
-    {
-        "id": "5ae089fb5acfc408fb13989b",
-        "name": "Trophy",
-        "shortname": "Trophy",
-        "image": "images/missing.webp"
-    },
-    {
         "id": "5ae08f0a5acfc408fb1398a1",
         "name": "Mosin 7.62x54R bolt-action rifle (Sniper)",
         "shortname": "Mosin (Sniper)",
-        "image": "images/bolts.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5ae096d95acfc400185c2c81",
@@ -6191,7 +6173,7 @@
         "id": "5ae0973a5acfc4001562206c",
         "name": "Mosin Rifle 7.62x54R 5-round magazine",
         "shortname": "Mosin",
-        "image": "images/hoseicon.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5ae099875acfc4001714e593",
@@ -6245,37 +6227,37 @@
         "id": "5ae9a0dd86f7742e5f454a05",
         "name": "Goshan cargo manifests",
         "shortname": "Goshan",
-        "image": "images/goshan_key.webp"
+        "image": "images/GOSHAN_Manifest.webp"
     },
     {
         "id": "5ae9a18586f7746e381e16a3",
         "name": "OLI cargo manifests",
         "shortname": "OLI",
-        "image": "images/rgo.webp"
+        "image": "images/OLI_Manifest.webp"
     },
     {
         "id": "5ae9a1b886f77404c8537c62",
         "name": "IDEA cargo manifests",
         "shortname": "IDEA",
-        "image": "images/rgo.webp"
+        "image": "images/IDEA_Manifest.webp"
     },
     {
         "id": "5ae9a25386f7746dd946e6d9",
         "name": "OLI cargo route documents",
         "shortname": "OLI route",
-        "image": "images/rgo.webp"
+        "image": "images/OLI_Cargo_Route_Docs.webp"
     },
     {
         "id": "5ae9a3f586f7740aab00e4e6",
         "name": "Clothes design handbook - Part 1",
         "shortname": "Book p.1",
-        "image": "images/missing.webp"
+        "image": "images/Clothes_design_handbook_Part_1_icon.webp"
     },
     {
         "id": "5ae9a4fc86f7746e381e1753",
         "name": "Clothes design handbook - Part 2",
         "shortname": "Book p.2",
-        "image": "images/missing.webp"
+        "image": "images/Clothes_design_handbook_Part_2_icon.webp"
     },
     {
         "id": "5af0454c86f7746bf20992e8",
@@ -6287,7 +6269,7 @@
         "id": "5af0484c86f7740f02001f7f",
         "name": "Can of Majaica coffee beans",
         "shortname": "Majaica",
-        "image": "images/cat.webp"
+        "image": "images/majaica.webp"
     },
     {
         "id": "5af04b6486f774195a3ebb49",
@@ -6299,13 +6281,13 @@
         "id": "5af04c0b86f774138708f78e",
         "name": "Motor Controller #1",
         "shortname": "Controller #1",
-        "image": "images/roler.webp"
+        "image": "images/MotorController.webp"
     },
     {
         "id": "5af04e0a86f7743a532b79e2",
         "name": "Single-axis Fiber Optic Gyroscope #1",
         "shortname": "FOG #1",
-        "image": "images/missing.webp"
+        "image": "images/Gyroscope_icon.webp"
     },
     {
         "id": "5af0534a86f7743b6f354284",
@@ -6455,7 +6437,7 @@
         "id": "5b1faa0f5acfc40dc528aeb5",
         "name": "Glock 18C pistol slide",
         "shortname": "G18C",
-        "image": "images/tools.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5b1fb3e15acfc4001637f068",
@@ -6485,7 +6467,7 @@
         "id": "5b2240bf5acfc40dc528af69",
         "name": "AR-15 Radian Weapons Raptor charging handle",
         "shortname": "Raptor",
-        "image": "images/capacitors.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5b237e425acfc4771e1be0b6",
@@ -6497,7 +6479,7 @@
         "id": "5b2388675acfc4771e1be0be",
         "name": "Burris FullField TAC30 1-4x24 30mm riflescope",
         "shortname": "TAC30",
-        "image": "images/fleec.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5b2389515acfc4771e1be0c0",
@@ -6623,7 +6605,7 @@
         "id": "5b3b99475acfc432ff4dcbee",
         "name": "EOTech Vudu 1-6x24 30mm riflescope",
         "shortname": "Vudu 1-6x24",
-        "image": "images/fleec.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5b3baf8f5acfc40dc5296692",
@@ -6635,7 +6617,7 @@
         "id": "5b3cadf35acfc400194776a0",
         "name": "TT ornated side grips",
         "shortname": "TT swag",
-        "image": "images/psu.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5b3cbc235acfc4001863ac44",
@@ -6647,31 +6629,31 @@
         "id": "5b3f16c486f7747c327f55f7",
         "name": "Armband (White)",
         "shortname": "Armband",
-        "image": "images/evasion_armband.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5b3f3ade86f7746b6b790d8e",
         "name": "Armband (Red)",
         "shortname": "Armband",
-        "image": "images/evasion_armband.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5b3f3af486f774679e752c1f",
         "name": "Armband (Blue)",
         "shortname": "Armband",
-        "image": "images/evasion_armband.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5b3f3b0186f774021a2afef7",
         "name": "Armband (Green)",
         "shortname": "Armband",
-        "image": "images/evasion_armband.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5b3f3b0e86f7746752107cda",
         "name": "Armband (Yellow)",
         "shortname": "Armband",
-        "image": "images/evasion_armband.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5b3f7bf05acfc433000ecf6b",
@@ -6689,31 +6671,31 @@
         "id": "5b3f7c1c5acfc40dc5296b1d",
         "name": "PU 3.5x riflescope",
         "shortname": "PU 3.5x",
-        "image": "images/fleec.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5b40e1525acfc4771e1c6611",
         "name": "HighCom Striker ULACH IIIA helmet (Black)",
         "shortname": "ULACH",
-        "image": "images/strike.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5b40e2bc5acfc40016388216",
         "name": "HighCom Striker ULACH IIIA helmet (Desert Tan)",
         "shortname": "ULACH",
-        "image": "images/strike.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5b40e3f35acfc40016388218",
         "name": "HighCom Striker ACHHC IIIA helmet (Black)",
         "shortname": "ACHHC",
-        "image": "images/strike.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5b40e4035acfc47a87740943",
         "name": "HighCom Striker ACHHC IIIA helmet (Olive Drab)",
         "shortname": "ACHHC",
-        "image": "images/strike.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5b40e5e25acfc4001a599bea",
@@ -6731,7 +6713,7 @@
         "id": "5b43237186f7742f3a4ab252",
         "name": "Chemical container #1",
         "shortname": "Chemcont",
-        "image": "images/missing.webp"
+        "image": "images/Chemical-Container_icon.webp"
     },
     {
         "id": "5b4325355acfc40019478126",
@@ -6755,25 +6737,25 @@
         "id": "5b4327aa5acfc400175496e0",
         "name": "MIL-TEC boonie hat",
         "shortname": "Boonie",
-        "image": "images/cat.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5b4329075acfc400153b78ff",
         "name": "Pompon hat",
         "shortname": "Pompon",
-        "image": "images/cat.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5b4329f05acfc47a86086aa1",
         "name": "DevTac Ronin ballistic helmet",
         "shortname": "Ronin",
-        "image": "images/meldonin.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5b432b2f5acfc4771e1c6622",
         "name": "Shattered lightweight armored mask",
         "shortname": "Shattered",
-        "image": "images/batteredbook.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5b432b6c5acfc4001a599bf0",
@@ -6797,7 +6779,7 @@
         "id": "5b432c305acfc40019478128",
         "name": "GP-5 gas mask",
         "shortname": "GP-5",
-        "image": "images/shmaska.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5b432d215acfc4771e1c6624",
@@ -6809,13 +6791,13 @@
         "id": "5b432f3d5acfc4704b4a1dfb",
         "name": "Momex balaclava",
         "shortname": "Momex",
-        "image": "images/balaclava.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5b4335ba86f7744d2837a264",
         "name": "Medical bloodset",
         "shortname": "Bloodset",
-        "image": "images/medical_tools.webp"
+        "image": "images/Medical_Bloodset_Icon.webp"
     },
     {
         "id": "5b43575a86f77424f443fe62",
@@ -6827,7 +6809,7 @@
         "id": "5b4391a586f7745321235ab2",
         "name": "WI-FI Camera",
         "shortname": "Camera",
-        "image": "images/missing.webp"
+        "image": "images/WIFI_Camera_Icon.webp"
     },
     {
         "id": "5b44c6ae86f7742d1627baea",
@@ -6893,37 +6875,37 @@
         "id": "5b4c72b386f7745b453af9c0",
         "name": "Motor Controller #2",
         "shortname": "Controller #2",
-        "image": "images/roler.webp"
+        "image": "images/MotorController.webp"
     },
     {
         "id": "5b4c72c686f77462ac37e907",
         "name": "Motor Controller #3",
         "shortname": "Controller #3",
-        "image": "images/roler.webp"
+        "image": "images/MotorController.webp"
     },
     {
         "id": "5b4c72fb86f7745cef1cffc5",
         "name": "Single-axis Fiber Optic Gyroscope #2",
         "shortname": "FOG #2",
-        "image": "images/missing.webp"
+        "image": "images/Gyroscope_icon.webp"
     },
     {
         "id": "5b4c81a086f77417d26be63f",
         "name": "Chemical container #2",
         "shortname": "Chemcont",
-        "image": "images/missing.webp"
+        "image": "images/Chemical-Container_icon.webp"
     },
     {
         "id": "5b4c81bd86f77418a75ae159",
         "name": "Chemical container #3",
         "shortname": "Chemcont",
-        "image": "images/missing.webp"
+        "image": "images/Chemical-Container_icon.webp"
     },
     {
         "id": "5b6d9ce188a4501afc1b2b25",
         "name": "T H I C C Weapon case",
-        "shortname": "T H I C C",
-        "image": "images/missing.webp"
+        "shortname": "thicc weapon",
+        "image": "images/WCasev2.webp"
     },
     {
         "id": "5b7be1125acfc4001876c0e5",
@@ -7031,7 +7013,7 @@
         "id": "5b7c710788a4506dec015957",
         "name": "Lucky Scav Junk box",
         "shortname": "Junk",
-        "image": "images/missing.webp"
+        "image": "images/Junkbox.webp"
     },
     {
         "id": "5b7d37845acfc400170e2f87",
@@ -7097,7 +7079,7 @@
         "id": "5b7d693d5acfc43bca706a3d",
         "name": "AR-10 2A Armanent X3 7.62x51 compensator",
         "shortname": "X3 762",
-        "image": "images/magnet.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5b7d6c105acfc40015109a5f",
@@ -7367,7 +7349,7 @@
         "id": "5bbde41ed4351e003562b038",
         "name": "Mosin Rifle Tacfire pistol grip",
         "shortname": "Mosin",
-        "image": "images/hoseicon.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5bc09a18d4351e003562b68e",
@@ -7403,7 +7385,7 @@
         "id": "5bc9b156d4351e00367fbce9",
         "name": "Jar of DevilDog mayo",
         "shortname": "Mayo",
-        "image": "images/missing.webp"
+        "image": "images/DDGMayoIcon.webp"
     },
     {
         "id": "5bc9b355d4351e6d1509862a",
@@ -7433,7 +7415,7 @@
         "id": "5bc9bdb8d4351e003562b8a1",
         "name": "Silver Badge",
         "shortname": "Badge",
-        "image": "images/missing.webp"
+        "image": "images/Silver_Badge_icon.webp"
     },
     {
         "id": "5bc9be8fd4351e00334cae6e",
@@ -7475,19 +7457,19 @@
         "id": "5bd06f5d86f77427101ad47c",
         "name": "Slender mask",
         "shortname": "Mask",
-        "image": "images/lower_half_mask.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5bd0716d86f774171822ef4b",
         "name": "Misha Mayorov mask",
         "shortname": "Mask",
-        "image": "images/lower_half_mask.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5bd071d786f7747e707b93a3",
         "name": "Jason mask",
         "shortname": "Mask",
-        "image": "images/lower_half_mask.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5bd073a586f7747e6f135799",
@@ -7499,7 +7481,7 @@
         "id": "5bd073c986f7747f627e796c",
         "name": "Kotton beanie",
         "shortname": "Kotton",
-        "image": "images/missing.webp"
+        "image": "images/Kotton_Beanie_icon.webp"
     },
     {
         "id": "5bd70322209c4d00d7167b8f",
@@ -7517,13 +7499,13 @@
         "id": "5be4038986f774527d3fae60",
         "name": "Interchange plan map",
         "shortname": "Interchange",
-        "image": "images/etg_change.webp"
+        "image": "images/InterchangeMapIcon.webp"
     },
     {
         "id": "5bead2e00db834001c062938",
         "name": "MPL-50 entrenching tool",
         "shortname": "MPL-50",
-        "image": "images/tools.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5bed61680db834001d2c45ab",
@@ -7547,7 +7529,7 @@
         "id": "5beec2820db834001b095426",
         "name": "RPK-16 5.45x39 22 inch barrel",
         "shortname": "RPK-16 22",
-        "image": "images/p22.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5beec3420db834001b095429",
@@ -7625,7 +7607,7 @@
         "id": "5bfd297f0db834001a669119",
         "name": "Mosin 7.62x54R bolt-action rifle (Infantry)",
         "shortname": "Mosin (Infantry)",
-        "image": "images/bolts.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5bfd35380db83400232fe5cc",
@@ -7655,13 +7637,13 @@
         "id": "5bfd384c0db834001a6691d3",
         "name": "Mosin Rifle carbine stock",
         "shortname": "Mosin carbine",
-        "image": "images/fleec.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5bfd4c980db834001b73449d",
         "name": "Mosin Rifle carbine rear sight",
         "shortname": "Mosin RS",
-        "image": "images/fleec.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5bfd4cbe0db834001b73449f",
@@ -7715,7 +7697,7 @@
         "id": "5bfea6e90db834001b7347f3",
         "name": "Remington Model 700 7.62x51 bolt-action sniper rifle",
         "shortname": "M700",
-        "image": "images/bolts.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5bfea7ad0db834001c38f1ee",
@@ -7793,7 +7775,7 @@
         "id": "5bffe7c50db834001d23ece1",
         "name": "P226 Axelson Tactical MK25 pistol slide",
         "shortname": "P226 Axelson",
-        "image": "images/tools.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5bffec120db834001c38f5fa",
@@ -7829,7 +7811,7 @@
         "id": "5c0009510db834001966907f",
         "name": "P226 Stainless Elite pistol slide",
         "shortname": "P226 Elite",
-        "image": "images/tools.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5c0102aa0db834001b734ba1",
@@ -7847,7 +7829,7 @@
         "id": "5c010a700db834001d23ef5d",
         "name": "P226 Emperor Scorpion pistol slide",
         "shortname": "P226 Scorpion",
-        "image": "images/tools.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5c010e350db83400232feec7",
@@ -7865,7 +7847,7 @@
         "id": "5c0125fc0db834001a669aa3",
         "name": "P226 Legion full size pistol slide",
         "shortname": "P226 Legion",
-        "image": "images/tools.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5c0126f40db834002a125382",
@@ -7877,7 +7859,7 @@
         "id": "5c012ffc0db834001d23f03f",
         "name": "Camper axe",
         "shortname": "Camper",
-        "image": "images/printer_paper.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5c0505e00db834001b735073",
@@ -7910,12 +7892,6 @@
         "image": "images/missing.webp"
     },
     {
-        "id": "5c052cea86f7746b2101e8d8",
-        "name": "Plastic suitcase",
-        "shortname": "Plastic suitcase",
-        "image": "images/missing.webp"
-    },
-    {
         "id": "5c052e6986f7746b207bc3c9",
         "name": "Portable defibrillator",
         "shortname": "Defibrillator",
@@ -7925,19 +7901,19 @@
         "id": "5c052f6886f7746b1e3db148",
         "name": "Military COFDM Wireless Signal Transmitter",
         "shortname": "SG-C10",
-        "image": "images/diary.webp"
+        "image": "images/cofdm.webp"
     },
     {
         "id": "5c052fb986f7746b2101e909",
         "name": "UHF RFID Reader",
         "shortname": "RFIDR",
-        "image": "images/missing.webp"
+        "image": "images/uhf_rfid.webp"
     },
     {
         "id": "5c05300686f7746dce784e5d",
         "name": "VPX Flash Storage Module",
         "shortname": "VPX",
-        "image": "images/missing.webp"
+        "image": "images/vpx_flash.webp"
     },
     {
         "id": "5c05308086f7746b2101e90b",
@@ -7949,7 +7925,7 @@
         "id": "5c0530ee86f774697952d952",
         "name": "LEDX Skin Transilluminator",
         "shortname": "LEDX",
-        "image": "images/missing.webp"
+        "image": "images/ledx.webp"
     },
     {
         "id": "5c05413a0db834001c390617",
@@ -7973,7 +7949,7 @@
         "id": "5c064c400db834001d23f468",
         "name": "LaRue LT101 QD Tactical Picatinny Riser mount",
         "shortname": "QD LT101",
-        "image": "images/cat.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5c06595c0db834001a66af6c",
@@ -8009,7 +7985,7 @@
         "id": "5c06779c86f77426e00dd782",
         "name": "Bundle of wires",
         "shortname": "Wires",
-        "image": "images/firesteel.webp"
+        "image": "images/wires.webp"
     },
     {
         "id": "5c06782b86f77426df5407d2",
@@ -8123,19 +8099,19 @@
         "id": "5c093ca986f7740a1867ab12",
         "name": "Secure container Kappa",
         "shortname": "Kappa",
-        "image": "images/missing.webp"
+        "image": "images/Kappa_icon.webp"
     },
     {
         "id": "5c093db286f7740a1b2617e3",
         "name": "Mr. Holodilnick thermal bag",
         "shortname": "Holodilnick",
-        "image": "images/missing.webp"
+        "image": "images/Mr._Holodilnick_thermobag_icon.webp"
     },
     {
         "id": "5c093e3486f77430cb02e593",
         "name": "Dogtag case",
         "shortname": "Dogtags",
-        "image": "images/bear_dogtag.webp"
+        "image": "images/DogtagCaseIcon.webp"
     },
     {
         "id": "5c0a2cec0db834001b7ce47d",
@@ -8144,16 +8120,10 @@
         "image": "images/missing.webp"
     },
     {
-        "id": "5c0a794586f77461c458f892",
-        "name": "Secure container Boss",
-        "shortname": "Boss container",
-        "image": "images/ssd.webp"
-    },
-    {
         "id": "5c0a840b86f7742ffa4f2482",
         "name": "T H I C C item case",
-        "shortname": "T H I C C",
-        "image": "images/missing.webp"
+        "shortname": "thicc item",
+        "image": "images/THICCItems_case_icon.webp"
     },
     {
         "id": "5c0d2727d174af02a012cf58",
@@ -8183,7 +8153,7 @@
         "id": "5c0d5ae286f7741e46554302",
         "name": "5.56x45mm Warmageddon",
         "shortname": "Warmage",
-        "image": "images/damaged_hard_drive.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5c0d5e4486f77478390952fe",
@@ -8249,7 +8219,7 @@
         "id": "5c0e530286f7747fa1419862",
         "name": "Propital regenerative stimulant injector",
         "shortname": "Propital",
-        "image": "images/awl.webp"
+        "image": "images/PropitalIcon.webp"
     },
     {
         "id": "5c0e531286f7747fa54205c2",
@@ -8261,19 +8231,19 @@
         "id": "5c0e531d86f7747fa23f4d42",
         "name": "SJ6 TGLabs combat stimulant injector",
         "shortname": "SJ6",
-        "image": "images/combat_stimulant_sj1.webp"
+        "image": "images/Combat_stimulant_SJ6_icon.webp"
     },
     {
         "id": "5c0e533786f7747fa23f4d47",
         "name": "Zagustin hemostatic drug injector",
         "shortname": "Zagustin",
-        "image": "images/hemostatic.webp"
+        "image": "images/Hemostatic_drug_Zagustin_icon.webp"
     },
     {
         "id": "5c0e534186f7747fa1419867",
         "name": "eTG-change regenerative stimulant injector",
         "shortname": "eTG-c",
-        "image": "images/injector_case.webp"
+        "image": "images/ETG_change_icon.webp"
     },
     {
         "id": "5c0e53c886f7747fa54205c7",
@@ -8315,7 +8285,7 @@
         "id": "5c0e655586f774045612eeb2",
         "name": "HighCom Trooper TFO body armor (MultiCam)",
         "shortname": "Trooper",
-        "image": "images/roler.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5c0e66e2d174af02a96252f4",
@@ -8417,7 +8387,7 @@
         "id": "5c11279ad174af029d64592b",
         "name": "5.56x45mm Warmageddon ammo pack (20 pcs)",
         "shortname": "Warmage",
-        "image": "images/damaged_hard_drive.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5c1127bdd174af44217ab8b9",
@@ -8435,7 +8405,7 @@
         "id": "5c12301c86f77419522ba7e4",
         "name": "Flash drive with fake info",
         "shortname": "Bullshit",
-        "image": "images/missing.webp"
+        "image": "images/False_fdicon.webp"
     },
     {
         "id": "5c1260dc86f7746b106e8748",
@@ -8459,7 +8429,7 @@
         "id": "5c12620d86f7743f8b198b72",
         "name": "Tetriz portable game console",
         "shortname": "Tetriz",
-        "image": "images/eft_grizzly.webp"
+        "image": "images/Tetriz_icon.webp"
     },
     {
         "id": "5c1262a286f7743f8a69aab2",
@@ -8471,7 +8441,7 @@
         "id": "5c1265fc86f7743f896a21c2",
         "name": "Broken GPhone X smartphone",
         "shortname": "GPX",
-        "image": "images/1gphone.webp"
+        "image": "images/broken_gphone_x.webp"
     },
     {
         "id": "5c1267ee86f77416ec610f72",
@@ -8489,7 +8459,7 @@
         "id": "5c127c4486f7745625356c13",
         "name": "Magazine case",
         "shortname": "Magazines",
-        "image": "images/missing.webp"
+        "image": "images/Magbox_icon.webp"
     },
     {
         "id": "5c13cd2486f774072c757944",
@@ -8531,7 +8501,7 @@
         "id": "5c178a942e22164bef5ceca3",
         "name": "Crye Precision AirFrame Chops",
         "shortname": "AF Chops",
-        "image": "images/psu.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5c1793902e221602b21d3de2",
@@ -8567,7 +8537,7 @@
         "id": "5c1a1e3f2e221602b66cc4c2",
         "name": "Fake white beard",
         "shortname": "Beard",
-        "image": "images/bear_dogtag.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5c1b857086f77465f465faa4",
@@ -8627,31 +8597,31 @@
         "id": "5c1d0c5f86f7744bb2683cf0",
         "name": "TerraGroup Labs keycard (Blue)",
         "shortname": "Blue",
-        "image": "images/keybar.webp"
+        "image": "images/labs_keycard_blue.webp"
     },
     {
         "id": "5c1d0d6d86f7744bb2683e1f",
         "name": "TerraGroup Labs keycard (Yellow)",
         "shortname": "Yellow",
-        "image": "images/26x75_flare_cartridge_yellow_29.webp"
+        "image": "images/labs_keycard_yellow.webp"
     },
     {
         "id": "5c1d0dc586f7744baf2e7b79",
         "name": "TerraGroup Labs keycard (Green)",
         "shortname": "Green",
-        "image": "images/26x75_flare_cartridge_green_29.webp"
+        "image": "images/labs_keycard_green.webp"
     },
     {
         "id": "5c1d0efb86f7744baf2e7b7b",
         "name": "TerraGroup Labs keycard (Red)",
         "shortname": "Red",
-        "image": "images/keybar.webp"
+        "image": "images/labs_keycard_red.webp"
     },
     {
         "id": "5c1d0f4986f7744bb01837fa",
         "name": "TerraGroup Labs keycard (Black)",
         "shortname": "Black",
-        "image": "images/bgv_stubby_black.webp"
+        "image": "images/labs_keycard_black.webp"
     },
     {
         "id": "5c1e2a1e86f77431ea0ea84c",
@@ -8669,7 +8639,7 @@
         "id": "5c1e495a86f7743109743dfb",
         "name": "TerraGroup Labs keycard (Violet)",
         "shortname": "Violet",
-        "image": "images/keybar.webp"
+        "image": "images/labs_keycard_violet.webp"
     },
     {
         "id": "5c1f79a086f7746ed066fb8f",
@@ -8753,7 +8723,7 @@
         "id": "5c471cb32e221602b177afaa",
         "name": "SVDS 7.62x54R 22 inch barrel",
         "shortname": "SVDS 22",
-        "image": "images/p22.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5c488a752e221602b412af63",
@@ -8897,25 +8867,25 @@
         "id": "5c5db5f22e2216000e5e47e8",
         "name": "MPX Midwest Industries 4.5 inch M-LOK handguard",
         "shortname": "MPX Midwest 4.5",
-        "image": "images/strike.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5c5db5fc2e2216000f1b2842",
         "name": "MPX Midwest Industries 6.5 inch M-LOK handguard",
         "shortname": "MPX Midwest 6.5",
-        "image": "images/strike.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5c5db6302e2216000e5e47f0",
         "name": "MPX Midwest Industries 10.5 inch M-LOK handguard",
         "shortname": "MPX Midwest 10.5",
-        "image": "images/strike.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5c5db63a2e2216000f1b284a",
         "name": "MPX Midwest Industries 14 inch M-LOK handguard",
         "shortname": "MPX Midwest 14",
-        "image": "images/strike.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5c5db6552e2216001026119d",
@@ -9029,19 +8999,19 @@
         "id": "5c6d10fa2e221600106f3f23",
         "name": "HK 416A5 Midwest Industries 9 inch M-LOK handguard",
         "shortname": "416A5 Midwest 9",
-        "image": "images/strike.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5c6d11072e2216000e69d2e4",
         "name": "HK 416A5 Midwest Industries 13.5 inch M-LOK handguard",
         "shortname": "416A5 Midwest 13.5",
-        "image": "images/strike.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5c6d11152e2216000f2003e7",
         "name": "HK 416A5 Strike Industries CRUX 15 inch M-LOK handguard",
         "shortname": "416A5 CRUX 15",
-        "image": "images/strike.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5c6d42cb2e2216000e69d7d1",
@@ -9119,25 +9089,25 @@
         "id": "5c791e872e2216001219c40a",
         "name": "Strike Industries Cobra Tactical foregrip",
         "shortname": "SI Cobra",
-        "image": "images/strike.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5c793fb92e221644f31bfb64",
         "name": "AR-15 Strike Industries Advanced Receiver Extension buffer tube",
         "shortname": "ARE",
-        "image": "images/strike.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5c793fc42e221600114ca25d",
         "name": "AR-15 Strike Industries Advanced Receiver Extension buffer tube (Anodized Red)",
         "shortname": "ARE",
-        "image": "images/strike.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5c793fde2e221601da358614",
         "name": "AR-15 Strike Industries Viper Mod 1 stock",
         "shortname": "Viper Mod1",
-        "image": "images/strike.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5c7951452e221644f31bfd5c",
@@ -9269,7 +9239,7 @@
         "id": "5c94bbff86f7747ee735c08f",
         "name": "TerraGroup Labs access keycard",
         "shortname": "Access",
-        "image": "images/keybar.webp"
+        "image": "images/labs_access_keycard.webp"
     },
     {
         "id": "5c99f3592e221644fc633070",
@@ -9371,13 +9341,13 @@
         "id": "5cadc431ae921500113bb8d5",
         "name": "M9A3 polymer side grips",
         "shortname": "M9A3",
-        "image": "images/psu.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5cadc55cae921500103bb3be",
         "name": "M9A3 pistol slide",
         "shortname": "M9A3",
-        "image": "images/tools.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5cadd919ae921500126a77f3",
@@ -9488,12 +9458,6 @@
         "image": "images/missing.webp"
     },
     {
-        "id": "5cc084dd14c02e000b0550a3",
-        "name": "Vasilyev",
-        "shortname": "Vasilyev",
-        "image": "images/missing.webp"
-    },
-    {
         "id": "5cc6ea78e4a949000e1ea3c1",
         "name": "FN P90 charging handle",
         "shortname": "P90",
@@ -9527,7 +9491,7 @@
         "id": "5cc700d4e4a949000f0f0f28",
         "name": "FN P90 Damage Industries buttpad",
         "shortname": "P90 DI",
-        "image": "images/strike.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5cc700ede4a949033c734315",
@@ -9677,7 +9641,7 @@
         "id": "5cdd7693d7f00c0010373aa5",
         "name": "AR-10 Precision Armanent M11 Severe-Duty 7.62x51 muzzle brake",
         "shortname": "M11",
-        "image": "images/magnet.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5cde739cd7f00c0010373bd3",
@@ -9689,7 +9653,7 @@
         "id": "5cde77a9d7f00c000f261009",
         "name": "M700 AB Arms MOD*X buffer tube side folder adapter",
         "shortname": "AB adpt.",
-        "image": "images/roler.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5cde7afdd7f00c000d36b89d",
@@ -9791,13 +9755,13 @@
         "id": "5cf50850d7f00c056e24104c",
         "name": "AK Strike Industries Enhanced Pistol Grip (Black)",
         "shortname": "AK-EPG",
-        "image": "images/strike.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5cf508bfd7f00c056e24104e",
         "name": "AK Strike Industries Enhanced Pistol Grip (FDE)",
         "shortname": "AK-EPG",
-        "image": "images/strike.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5cf50fc5d7f00c056c53f83c",
@@ -9857,7 +9821,7 @@
         "id": "5cf6937cd7f00c056c53fb39",
         "name": "AR-15 Bulletec ST-6012 5.56x45 muzzle brake",
         "shortname": "ST6012 556",
-        "image": "images/fleec.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5cf78496d7f00c065703d6ca",
@@ -9917,13 +9881,13 @@
         "id": "5cffa483d7ad1a049e54ef1c",
         "name": "100 rounds belt",
         "shortname": "100",
-        "image": "images/dorm_110.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5d00e0cbd7ad1a6c6566a42d",
         "name": "AR-15 Strike Industries Viper carbine length M-LOK handguard",
         "shortname": "AR15 Viper",
-        "image": "images/strike.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5d00ec68d7ad1a04a067e5be",
@@ -9947,7 +9911,7 @@
         "id": "5d00f63bd7ad1a59283b1c1e",
         "name": "AR-15 Strike Industries Viper carbine length M-LOK handguard (FDE)",
         "shortname": "AR15 Viper",
-        "image": "images/strike.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5d010d1cd7ad1a59283b1ce7",
@@ -9977,7 +9941,7 @@
         "id": "5d025cc1d7ad1a53845279ef",
         "name": "AR-15 HK Ergo PSG-1 style pistol grip",
         "shortname": "Ergo",
-        "image": "images/rgo.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5d02676dd7ad1a049e54f6dc",
@@ -10001,7 +9965,7 @@
         "id": "5d02778e86f774203e7dedbe",
         "name": "CMS surgical kit",
         "shortname": "CMS",
-        "image": "images/missing.webp"
+        "image": "images/cms.webp"
     },
     {
         "id": "5d02797c86f774203f38e30a",
@@ -10013,13 +9977,13 @@
         "id": "5d0375ff86f774186372f685",
         "name": "Military cable",
         "shortname": "MCable",
-        "image": "images/diary.webp"
+        "image": "images/militarycable.webp"
     },
     {
         "id": "5d0376a486f7747d8050965c",
         "name": "Military circuit board",
         "shortname": "MCB",
-        "image": "images/circuit.webp"
+        "image": "images/MilitaryCircuitBoardIcon.webp"
     },
     {
         "id": "5d03775b86f774203e7e0c4b",
@@ -10031,43 +9995,37 @@
         "id": "5d0377ce86f774186372f689",
         "name": "Iridium military thermal vision module",
         "shortname": "Iridium",
-        "image": "images/diary.webp"
+        "image": "images/Mil_thervis.webp"
     },
     {
         "id": "5d03784a86f774203e7e0c4d",
         "name": "Military gyrotachometer",
         "shortname": "MGT",
-        "image": "images/diary.webp"
+        "image": "images/MGT_Icon.webp"
     },
     {
         "id": "5d0378d486f77420421a5ff4",
         "name": "Military power filter",
         "shortname": "PFilter",
-        "image": "images/air_filter.webp"
+        "image": "images/Mil_Filter_Icon.webp"
     },
     {
         "id": "5d03794386f77420415576f5",
         "name": "6-STEN-140-M military battery",
         "shortname": "Tank battery",
-        "image": "images/car_battery.webp"
+        "image": "images/Mil_Batt_icon.webp"
     },
     {
         "id": "5d0379a886f77420407aa271",
         "name": "OFZ 30x160mm shell",
         "shortname": "OFZ",
-        "image": "images/30x160mm_shell.webp"
-    },
-    {
-        "id": "5d07b91b86f7745a077a9432",
-        "name": "Common fund stash",
-        "shortname": "Common fund stash",
-        "image": "images/missing.webp"
+        "image": "images/30x160mmShellicon.webp"
     },
     {
         "id": "5d08d21286f774736e7c94c3",
         "name": "Shturman's stash key",
         "shortname": "SSK",
-        "image": "images/missing.webp"
+        "image": "images/Shturman_Key_Icon.webp"
     },
     {
         "id": "5d0a29ead7ad1a0026013f27",
@@ -10085,13 +10043,13 @@
         "id": "5d0a3a58d7ad1a669c15ca14",
         "name": "KMZ 1P59 3-10x riflescope",
         "shortname": "1P59",
-        "image": "images/fleec.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5d0a3e8cd7ad1a6f6a3d35bd",
         "name": "KMZ 1P69 3-10x riflescope",
         "shortname": "1P69",
-        "image": "images/fleec.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5d0b5cd3d7ad1a3fe32ad263",
@@ -10115,7 +10073,7 @@
         "id": "5d120a28d7ad1a1c8962e295",
         "name": "DoubleStar ACE recoil pad",
         "shortname": "ACE pad",
-        "image": "images/roubles.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5d122e7bd7ad1a07102d6d7f",
@@ -10241,19 +10199,19 @@
         "id": "5d1b2ffd86f77425243e8d17",
         "name": "NIXXOR lens",
         "shortname": "NIXXOR",
-        "image": "images/missing.webp"
+        "image": "images/nixxor_lens.webp"
     },
     {
         "id": "5d1b304286f774253763a528",
         "name": "Working LCD",
         "shortname": "LCD",
-        "image": "images/missing.webp"
+        "image": "images/working_lcd.webp"
     },
     {
         "id": "5d1b309586f77425227d1676",
         "name": "Broken LCD",
         "shortname": "BrokenLCD",
-        "image": "images/missing.webp"
+        "image": "images/broken_lcd.png.webp"
     },
     {
         "id": "5d1b313086f77425227d1678",
@@ -10271,7 +10229,7 @@
         "id": "5d1b31ce86f7742523398394",
         "name": "Round pliers",
         "shortname": "RPliers",
-        "image": "images/plierselite.webp"
+        "image": "images/roundpliers.webp"
     },
     {
         "id": "5d1b327086f7742525194449",
@@ -10289,31 +10247,31 @@
         "id": "5d1b33a686f7742523398398",
         "name": "Canister with purified water",
         "shortname": "Superwater",
-        "image": "images/missing.webp"
+        "image": "images/Purified_water_icon.webp"
     },
     {
         "id": "5d1b36a186f7742523398433",
         "name": "Metal fuel tank",
         "shortname": "Fuel",
-        "image": "images/dryfuel.webp"
+        "image": "images/Metal-fuel-tank-icon.webp"
     },
     {
         "id": "5d1b371186f774253763a656",
         "name": "Expeditionary fuel tank",
         "shortname": "Fuel",
-        "image": "images/dryfuel.webp"
+        "image": "images/Expeditionary-fuel-tank-icon.webp"
     },
     {
         "id": "5d1b376e86f774252519444e",
         "name": "Bottle of Fierce Hatchling moonshine",
         "shortname": "Moonshine",
-        "image": "images/missing.webp"
+        "image": "images/Fiece_hatchling_moonshine_icon.webp"
     },
     {
         "id": "5d1b385e86f774252167b98a",
         "name": "Water filter",
         "shortname": "WFilter",
-        "image": "images/air_filter.webp"
+        "image": "images/Water_filter_icon.webp"
     },
     {
         "id": "5d1b392c86f77425243e98fe",
@@ -10331,7 +10289,7 @@
         "id": "5d1b3a5d86f774252167ba22",
         "name": "Pile of meds",
         "shortname": "Meds",
-        "image": "images/missing.webp"
+        "image": "images/Pile_of_meds_icon.webp"
     },
     {
         "id": "5d1b3f2d86f774253763b735",
@@ -10343,7 +10301,7 @@
         "id": "5d1b5e94d7ad1a2b865a96b0",
         "name": "FLIR RS-32 2.25-9x 35mm 60Hz thermal riflescope",
         "shortname": "FLIR RS-32",
-        "image": "images/fleec.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5d1c702ad7ad1a632267f429",
@@ -10361,7 +10319,7 @@
         "id": "5d1c819a86f774771b0acd6c",
         "name": "Weapon parts",
         "shortname": "WParts",
-        "image": "images/m_parts.webp"
+        "image": "images/WeaponPartsIcon.webp"
     },
     {
         "id": "5d1f819086f7744b355c219b",
@@ -10379,13 +10337,13 @@
         "id": "5d235b4d86f7742e017bc88a",
         "name": "GP coin",
         "shortname": "GP",
-        "image": "images/missing.webp"
+        "image": "images/Gp_coin_icon.webp"
     },
     {
         "id": "5d235bb686f77443f4331278",
-        "name": "S I C C organizational pouch",
+        "name": "SICC organizational pouch",
         "shortname": "SICC",
-        "image": "images/missing.webp"
+        "image": "images/SmallSICCIcon.webp"
     },
     {
         "id": "5d2369418abbc306c62e0c80",
@@ -10457,7 +10415,7 @@
         "id": "5d2c76ed48f03532f2136169",
         "name": "AK AKademia Bastion dust cover",
         "shortname": "Bastion",
-        "image": "images/cabinet_key_gas_station.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5d2c770c48f0354b4a07c100",
@@ -10535,7 +10493,7 @@
         "id": "5d357d6b86f7745b606e3508",
         "name": "Photo album",
         "shortname": "Album",
-        "image": "images/missing.webp"
+        "image": "images/Photo_Album_ins.webp"
     },
     {
         "id": "5d3eb3b0a4b93615055e84d2",
@@ -10583,7 +10541,7 @@
         "id": "5d3ec50586f774183a607442",
         "name": "Encrypted message",
         "shortname": "Encr. info",
-        "image": "images/missing.webp"
+        "image": "images/Encrypted_message_icon.webp"
     },
     {
         "id": "5d3ef698a4b9361182109872",
@@ -10601,13 +10559,13 @@
         "id": "5d40407c86f774318526545a",
         "name": "Bottle of Tarkovskaya vodka",
         "shortname": "Vodka",
-        "image": "images/missing.webp"
+        "image": "images/VodkaIcon.webp"
     },
     {
         "id": "5d40412b86f7743cb332ac3a",
         "name": "Schaman shampoo",
         "shortname": "Shampoo",
-        "image": "images/missing.webp"
+        "image": "images/Shampoo_icon.webp"
     },
     {
         "id": "5d40419286f774318526545f",
@@ -10625,13 +10583,13 @@
         "id": "5d40425986f7743185265461",
         "name": "Nippers",
         "shortname": "Nippers",
-        "image": "images/missing.webp"
+        "image": "images/Nippers_small.webp"
     },
     {
         "id": "5d4042a986f7743185265463",
         "name": "Flat screwdriver (Long)",
         "shortname": "L&F scdr.",
-        "image": "images/flat_screwdriver.png.webp"
+        "image": "images/Long_screwdriver_icon.webp"
     },
     {
         "id": "5d43021ca4b9362eab4b5e25",
@@ -10655,7 +10613,7 @@
         "id": "5d440625a4b9361eec4ae6c5",
         "name": "AR-15 Thunder Beast Arms 223CB 5.56x45 muzzle brake",
         "shortname": "223CB",
-        "image": "images/p22.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5d44064fa4b9361e4f6eb8b5",
@@ -10763,7 +10721,7 @@
         "id": "5d5d940f86f7742797262046",
         "name": "Oakley Mechanism heavy duty backpack (Black)",
         "shortname": "Mechanism",
-        "image": "images/smt.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5d5e7d28a4b936645d161203",
@@ -10781,7 +10739,7 @@
         "id": "5d5fca1ea4b93635fd598c07",
         "name": "Crossbow tactical glasses",
         "shortname": "Crossbow",
-        "image": "images/missing.webp"
+        "image": "images/Crossbow_tactical_glasses_icon.webp"
     },
     {
         "id": "5d63d33b86f7746ea9275524",
@@ -10796,28 +10754,16 @@
         "image": "images/missing.webp"
     },
     {
-        "id": "5d6d2b5486f774785c2ba8ea",
-        "name": "Ground cache",
-        "shortname": "Ground cache",
-        "image": "images/missing.webp"
-    },
-    {
-        "id": "5d6d2bb386f774785b07a77a",
-        "name": "Buried barrel cache",
-        "shortname": "Buried barrel cache",
-        "image": "images/missing.webp"
-    },
-    {
         "id": "5d6d2e22a4b9361bd5780d05",
         "name": "Oakley SI Gascan glasses",
         "shortname": "Gascan",
-        "image": "images/missing.webp"
+        "image": "images/Gascan_glasses_icon.webp"
     },
     {
         "id": "5d6d2ef3a4b93618084f58bd",
         "name": "RayBench Aviator glasses",
         "shortname": "Aviator",
-        "image": "images/respirator.webp"
+        "image": "images/Aviator_Sunglasses_icon.webp"
     },
     {
         "id": "5d6d3716a4b9361bc8618872",
@@ -10853,7 +10799,7 @@
         "id": "5d6e67fba4b9361bc73bc779",
         "name": "12/70 6.5mm Express buckshot",
         "shortname": "Express",
-        "image": "images/pressure_gauge.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5d6e6806a4b936088465b17e",
@@ -10907,7 +10853,7 @@
         "id": "5d6e68dea4b9361bcc29e659",
         "name": "12/70 Dual Sabot slug",
         "shortname": "DualSabot",
-        "image": "images/bolts.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5d6e68e6a4b9361c140bcfe0",
@@ -10919,7 +10865,7 @@
         "id": "5d6e6911a4b9361bd5780d52",
         "name": "12/70 flechette",
         "shortname": "Flechette",
-        "image": "images/fleec.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5d6e695fa4b936359b35d852",
@@ -10973,25 +10919,7 @@
         "id": "5d6fc87386f77449db3db94e",
         "name": "Gunpowder Hawk",
         "shortname": "Hawk",
-        "image": "images/missing.webp"
-    },
-    {
-        "id": "5d6fd13186f77424ad2a8c69",
-        "name": "Ration supply crate",
-        "shortname": "Ration supply crate",
-        "image": "images/missing.webp"
-    },
-    {
-        "id": "5d6fd45b86f774317075ed43",
-        "name": "Technical supply crate",
-        "shortname": "Technical supply crate",
-        "image": "images/missing.webp"
-    },
-    {
-        "id": "5d6fe50986f77449d97f7463",
-        "name": "Medical supply crate",
-        "shortname": "Medical supply crate",
-        "image": "images/missing.webp"
+        "image": "images/hawk_gunpowder.webp"
     },
     {
         "id": "5d70e500a4b9364de70d38ce",
@@ -11009,193 +10937,193 @@
         "id": "5d80c60f86f77440373c4ece",
         "name": "RB-BK marked key",
         "shortname": "RB-BK mrk.",
-        "image": "images/marked_key.webp"
+        "image": "images/RB-BK_Icon.webp"
     },
     {
         "id": "5d80c62a86f7744036212b3f",
         "name": "RB-VO marked key",
         "shortname": "RB-VO mrk.",
-        "image": "images/marked_key.webp"
+        "image": "images/RB-VO_key_icon.webp"
     },
     {
         "id": "5d80c66d86f774405611c7d6",
         "name": "RB-AO key",
         "shortname": "RB-AO",
-        "image": "images/missing.webp"
+        "image": "images/RB-AO_key_icon.webp"
     },
     {
         "id": "5d80c6c586f77440351beef1",
         "name": "RB-OB key",
         "shortname": "RB-OB",
-        "image": "images/missing.webp"
+        "image": "images/RB-OB_key_icon.webp"
     },
     {
         "id": "5d80c6fc86f774403a401e3c",
         "name": "RB-TB key",
         "shortname": "RB-TB",
-        "image": "images/missing.webp"
+        "image": "images/RB-TB_key_icon.webp"
     },
     {
         "id": "5d80c78786f774403a401e3e",
         "name": "RB-AK key",
         "shortname": "RB-AK",
-        "image": "images/missing.webp"
+        "image": "images/Rb-ak_item.webp"
     },
     {
         "id": "5d80c88d86f77440556dbf07",
         "name": "RB-AM key",
         "shortname": "RB-AM",
-        "image": "images/missing.webp"
+        "image": "images/RB-AM_Key.webp"
     },
     {
         "id": "5d80c8f586f77440373c4ed0",
         "name": "RB-OP key",
         "shortname": "RB-OP",
-        "image": "images/missing.webp"
+        "image": "images/RB-OP_key_icon.webp"
     },
     {
         "id": "5d80c93086f7744036212b41",
         "name": "RB-MP11 key",
         "shortname": "RB-MP11",
-        "image": "images/missing.webp"
+        "image": "images/RB-MP11.webp"
     },
     {
         "id": "5d80c95986f77440351beef3",
         "name": "RB-MP12 key",
         "shortname": "RB-MP12",
-        "image": "images/missing.webp"
+        "image": "images/RB-MP12.webp"
     },
     {
         "id": "5d80ca9086f774403a401e40",
         "name": "RB-MP21 key",
         "shortname": "RB-MP21",
-        "image": "images/missing.webp"
+        "image": "images/RB-MP21.webp"
     },
     {
         "id": "5d80cab086f77440535be201",
         "name": "RB-MP22 key",
         "shortname": "RB-MP22",
-        "image": "images/p22.webp"
+        "image": "images/RB-MP22.webp"
     },
     {
         "id": "5d80cb3886f77440556dbf09",
         "name": "RB-PSP1 key",
         "shortname": "RB-PSP1",
-        "image": "images/missing.webp"
+        "image": "images/RB-PSP1_key_icon.webp"
     },
     {
         "id": "5d80cb5686f77440545d1286",
         "name": "RB-PSV1 key",
         "shortname": "RB-PSV1",
-        "image": "images/missing.webp"
+        "image": "images/RB-PS81.webp"
     },
     {
         "id": "5d80cb8786f774405611c7d9",
         "name": "RB-PP key",
         "shortname": "RB-PP",
-        "image": "images/missing.webp"
+        "image": "images/RB-PP_key_icon.webp"
     },
     {
         "id": "5d80cbd886f77470855c26c2",
         "name": "RB-MP13 key",
         "shortname": "RB-MP13",
-        "image": "images/missing.webp"
+        "image": "images/RB-MP13.webp"
     },
     {
         "id": "5d80ccac86f77470841ff452",
         "name": "RB-ORB1 key",
         "shortname": "RB-ORB1",
-        "image": "images/missing.webp"
+        "image": "images/RB-ORB1_key_icon.webp"
     },
     {
         "id": "5d80ccdd86f77474f7575e02",
         "name": "RB-ORB2 key",
         "shortname": "RB-ORB2",
-        "image": "images/missing.webp"
+        "image": "images/RB-ORB2_key_icon.webp"
     },
     {
         "id": "5d80cd1a86f77402aa362f42",
         "name": "RB-ORB3 key",
         "shortname": "RB-ORB3",
-        "image": "images/missing.webp"
+        "image": "images/RB-ORB3_key_icon.webp"
     },
     {
         "id": "5d8e0db586f7744450412a42",
         "name": "RB-KORL key",
         "shortname": "RB-KORL",
-        "image": "images/missing.webp"
+        "image": "images/RB-KORL_key_icon.webp"
     },
     {
         "id": "5d8e0e0e86f774321140eb56",
         "name": "RB-KPRL key",
         "shortname": "RB-KPRL",
-        "image": "images/missing.webp"
+        "image": "images/RB-KPRL_key_icon.webp"
     },
     {
         "id": "5d8e15b686f774445103b190",
         "name": "HEP station storage room key",
         "shortname": "HEPS",
-        "image": "images/missing.webp"
+        "image": "images/HEPSKeyIcon.webp"
     },
     {
         "id": "5d8e3ecc86f774414c78d05e",
         "name": "RB-GN key",
         "shortname": "RB-GN",
-        "image": "images/missing.webp"
+        "image": "images/RB-GN_key_icon.webp"
     },
     {
         "id": "5d947d3886f774447b415893",
         "name": "RB-SMP key",
         "shortname": "RB-SMP",
-        "image": "images/missing.webp"
+        "image": "images/RB-SMP_key_icon.webp"
     },
     {
         "id": "5d947d4e86f774447b415895",
         "name": "RB-KSM key",
         "shortname": "RB-KSM",
-        "image": "images/missing.webp"
+        "image": "images/RB-KSM_Icon.webp"
     },
     {
         "id": "5d95d6be86f77424444eb3a7",
         "name": "RB-PSV2 key",
         "shortname": "RB-PSV2",
-        "image": "images/missing.webp"
+        "image": "images/RB-PS82_key_icon.webp"
     },
     {
         "id": "5d95d6fa86f77424484aa5e9",
         "name": "RB-PSP2 key",
         "shortname": "RB-PSP2",
-        "image": "images/missing.webp"
+        "image": "images/RB-PSP2_key_icon.webp"
     },
     {
         "id": "5d96141523f0ea1b7f2aacab",
         "name": "Door Kicker boonie hat",
         "shortname": "Door Kicker",
-        "image": "images/cat.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5d9f1fa686f774726974a992",
         "name": "RB-ST key",
         "shortname": "RB-ST",
-        "image": "images/missing.webp"
+        "image": "images/RB-ST_key_icon.webp"
     },
     {
         "id": "5da46e3886f774653b7a83fe",
         "name": "RB-RS key",
         "shortname": "RB-RS",
-        "image": "images/missing.webp"
+        "image": "images/RB-RS_key_icon.webp"
     },
     {
         "id": "5da5cdcd86f774529238fb9b",
         "name": "RB-RH key",
         "shortname": "RB-RH",
-        "image": "images/missing.webp"
+        "image": "images/RB-RH_key_icon.webp"
     },
     {
         "id": "5da743f586f7744014504f72",
         "name": "USEC stash key",
         "shortname": "USEC",
-        "image": "images/missing.webp"
+        "image": "images/USECstashoncustomskeyicon.webp"
     },
     {
         "id": "5dcbd56fdbd3d91b3e5468d5",
@@ -11231,7 +11159,7 @@
         "id": "5de652c31b7e3716273428be",
         "name": "Molot Arms VPO-215 Gornostay .366 TKM bolt-action rifle",
         "shortname": "VPO-215 Gornostay",
-        "image": "images/bolts.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5de653abf76fdc1ce94a5a2a",
@@ -11429,7 +11357,7 @@
         "id": "5df8a42886f77412640e2e75",
         "name": "Velocity Systems MPPV Multi-Purpose Patrol Vest (Wolf Grey)",
         "shortname": "MPPV",
-        "image": "images/euros.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5df8a4d786f77412672a1e3b",
@@ -11567,13 +11495,13 @@
         "id": "5dfe6104585a0c3e995c7b82",
         "name": "NcSTAR ADO P4 Sniper 3-9x42 riflescope",
         "shortname": "ADO P4",
-        "image": "images/fleec.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5dff772da3651922b360bf91",
         "name": "VOMZ Pilad 4x32 25.4mm riflescope",
         "shortname": "Pilad 4x32",
-        "image": "images/fleec.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5dff77c759400025ea5150cf",
@@ -11681,7 +11609,7 @@
         "id": "5e023e88277cce2b522ff2b1",
         "name": "7.62x51mm Ultra Nosler",
         "shortname": "Ultra Nosler",
-        "image": "images/roler.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5e208b9842457a4a7a33d074",
@@ -11705,7 +11633,7 @@
         "id": "5e21a3c67e40bd02257a008a",
         "name": "AK 7.62x39 Magpul PMAG 30 GEN M3 30-round magazine (Banana)",
         "shortname": "GEN M3",
-        "image": "images/bandana.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5e21ca18e4d47f0da15e77dd",
@@ -11717,13 +11645,13 @@
         "id": "5e2aedd986f7746d404f3aa4",
         "name": "GreenBat lithium battery",
         "shortname": "GreenBat",
-        "image": "images/car_battery.webp"
+        "image": "images/greenbat.webp"
     },
     {
         "id": "5e2aee0a86f774755a234b62",
         "name": "Cyclon rechargeable battery",
         "shortname": "Cyclon",
-        "image": "images/car_battery.webp"
+        "image": "images/cyclon.webp"
     },
     {
         "id": "5e2aef7986f7746d3f3c33f5",
@@ -11735,7 +11663,7 @@
         "id": "5e2af00086f7746d3f3c33f7",
         "name": "Smoked Chimney drain cleaner",
         "shortname": "DCleaner",
-        "image": "images/smoke.webp"
+        "image": "images/smoked_chimney_drain_cleaner.webp"
     },
     {
         "id": "5e2af02c86f7746d420957d4",
@@ -11753,7 +11681,7 @@
         "id": "5e2af29386f7746d4159f077",
         "name": "KEKTAPE duct tape",
         "shortname": "KEK",
-        "image": "images/duct_tape.webp"
+        "image": "images/kektape.webp"
     },
     {
         "id": "5e2af2bc86f7746d3f3c33fc",
@@ -11765,7 +11693,7 @@
         "id": "5e2af37686f774755a234b65",
         "name": "SurvL Survivor Lighter",
         "shortname": "SurvL",
-        "image": "images/missing.webp"
+        "image": "images/SurvL_Icon.webp"
     },
     {
         "id": "5e2af41e86f774755a234b67",
@@ -11777,7 +11705,7 @@
         "id": "5e2af47786f7746d404f3aaa",
         "name": "Fleece fabric",
         "shortname": "Fleece",
-        "image": "images/fleec.webp"
+        "image": "images/fleece.webp"
     },
     {
         "id": "5e2af4a786f7746d3f3c3400",
@@ -11801,37 +11729,37 @@
         "id": "5e2af55f86f7746d4159f07c",
         "name": "Grenade case",
         "shortname": "Grenades",
-        "image": "images/f_1_grenade.webp"
+        "image": "images/grenade_case.webp"
     },
     {
         "id": "5e32f56fcb6d5863cc5e5ee4",
         "name": "VOG-17 Khattabka improvised hand grenade",
         "shortname": "VOG-17",
-        "image": "images/f_1_grenade.webp"
+        "image": "images/Vog-17_icon.webp"
     },
     {
         "id": "5e340dcdcb6d5863cc5e5efb",
         "name": "VOG-25 Khattabka improvised hand grenade",
         "shortname": "VOG-25",
-        "image": "images/f_1_grenade.webp"
+        "image": "images/Vog-25_icon.webp"
     },
     {
         "id": "5e42c71586f7747f245e1343",
         "name": "ULTRA medical storage key",
         "shortname": "ULTRA med.",
-        "image": "images/storage_key.webp"
+        "image": "images/Medst_icon.webp"
     },
     {
         "id": "5e42c81886f7742a01529f57",
         "name": "Object #11SR keycard",
         "shortname": "#11SR",
-        "image": "images/keybar.webp"
+        "image": "images/11sr_icon.webp"
     },
     {
         "id": "5e42c83786f7742a021fdf3c",
         "name": "Object #21WS keycard",
         "shortname": "#21WS",
-        "image": "images/keybar.webp"
+        "image": "images/21ws_icon.webp"
     },
     {
         "id": "5e4abb5086f77406975c9342",
@@ -11867,25 +11795,25 @@
         "id": "5e4bfc1586f774264f7582d3",
         "name": "MSA Gallet TC 800 High Cut combat helmet (Black)",
         "shortname": "TC 800",
-        "image": "images/wallet.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5e4d34ca86f774264f758330",
         "name": "Walker's Razor Digital headset",
         "shortname": "Razor",
-        "image": "images/missing.webp"
+        "image": "images/WalkerRazorDigitalInInventory.webp"
     },
     {
         "id": "5e54f62086f774219b0f1937",
         "name": "Raven figurine",
         "shortname": "Raven",
-        "image": "images/horse_figurine.webp"
+        "image": "images/Raven_figurine_icon.webp"
     },
     {
         "id": "5e54f6af86f7742199090bf3",
         "name": "Can of Dr. Lupo's coffee beans",
         "shortname": "DrLupo's",
-        "image": "images/missing.webp"
+        "image": "images/Lupo_Icon.webp"
     },
     {
         "id": "5e54f76986f7740366043752",
@@ -11987,7 +11915,7 @@
         "id": "5e81c6bf763d9f754677beff",
         "name": "M1911A1 side grips",
         "shortname": "1911",
-        "image": "images/psu.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5e81ebcd8e146c7080625e15",
@@ -11999,7 +11927,7 @@
         "id": "5e81edc13397a21db957f6a1",
         "name": "M1911A1 pistol slide",
         "shortname": "1911 slide",
-        "image": "images/tools.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5e81ee213397a21db957f6a6",
@@ -12029,7 +11957,7 @@
         "id": "5e8488fa988a8701445df1e4",
         "name": "CALOK-B hemostatic applicator",
         "shortname": "CALOK-B",
-        "image": "images/cat.webp"
+        "image": "images/hemostatic.webp"
     },
     {
         "id": "5e848cc2988a8701445df1e8",
@@ -12071,7 +11999,7 @@
         "id": "5e848dc4e4dbc5266a4ec63d",
         "name": "KS-23M wire stock",
         "shortname": "KS23M steel",
-        "image": "images/wires.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5e85a9a6eacf8c039e4e2ac1",
@@ -12137,25 +12065,13 @@
         "id": "5e8f3423fd7471236e6e3b64",
         "name": "Bottle of Norvinskiy Yadreniy premium kvass (0.6L)",
         "shortname": "Kvass",
-        "image": "images/ssd.webp"
-    },
-    {
-        "id": "5e99711486f7744bfc4af328",
-        "name": "Sanitar's first aid kit",
-        "shortname": "Sanitar",
-        "image": "images/missing.webp"
-    },
-    {
-        "id": "5e99735686f7744bfc4af32c",
-        "name": "Sanitar kit",
-        "shortname": "Sanitar kit",
-        "image": "images/missing.webp"
+        "image": "images/Kvass_icon.webp"
     },
     {
         "id": "5e997f0b86f7741ac73993e2",
         "name": "Sanitar's bag",
         "shortname": "Sanitar",
-        "image": "images/missing.webp"
+        "image": "images/Sanitar_Bag_Icon.webp"
     },
     {
         "id": "5e9dacf986f774054d6b89f4",
