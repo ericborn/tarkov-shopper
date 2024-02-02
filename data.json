@@ -4080,54 +4080,7 @@
         "shortname": "Respirator",
         "image": "images/respirator.webp"
     },
-    {
-        "id": "59e77a2386f7742ee578960a",
-        "name": "7.62x54mm R PS gzh",
-        "shortname": "PS",
-        "image": "images/missing.webp"
-    },
-    {
-        "id": "59e8977386f77415a553c453",
-        "name": "VPO-209 rear sight",
-        "shortname": "VPO209",
-        "image": "images/missing.webp"
-    },
-    {
-        "id": "59e898ee86f77427614bd225",
-        "name": "VPO-209 wooden handguard",
-        "shortname": "VPO209",
-        "image": "images/missing.webp"
-    },
-    {
-        "id": "59e89d0986f77427600d226e",
-        "name": "VPO-209 wooden stock",
-        "shortname": "VPO209",
-        "image": "images/missing.webp"
-    },
-    {
-        "id": "59e8a00d86f7742ad93b569c",
-        "name": "VPO-209 thread protector",
-        "shortname": "209 thr.",
-        "image": "images/missing.webp"
-    },
-    {
-        "id": "59eb7ebe86f7740b373438ce",
-        "name": "VSS/VAL TOZ 6P29M mount",
-        "shortname": "6P29M",
-        "image": "images/missing.webp"
-    },
-    {
-        "id": "59ecc28286f7746d7a68aa8c",
-        "name": "AKS-74/AKS-74U Zenit PT Lock",
-        "shortname": "PT 74S",
-        "image": "images/missing.webp"
-    },
-    {
-        "id": "59ecc3dd86f7746dc827481c",
-        "name": "AK Zenit PT-3 Klassika stock",
-        "shortname": "PT-3",
-        "image": "images/missing.webp"
-    },
+    
     {
         "id": "59ef13ca86f77445fd0e2483",
         "name": "Jack-o'-lantern tactical pumpkin helmet",
@@ -4768,7 +4721,7 @@
         "id": "5a29276886f77435ed1b117c",
         "name": "Working hard drive",
         "shortname": "HDD",
-        "image": "images/missing.webp"
+        "image": "images/Working_hard_drive_icon.webp"
     },
     {
         "id": "5a29284f86f77463ef3db363",
@@ -16081,40 +16034,10 @@
         "image": "images/missing.webp"
     },
     {
-        "id": "628393620d8524273e7eb028",
-        "name": "Working hard drive",
-        "shortname": "HDD",
-        "image": "images/missing.webp"
-    },
-    {
         "id": "6284bd5f95250a29bc628a30",
         "name": "Milkor M2A1 grenade launcher reflex sight",
         "shortname": "M2A1",
         "image": "images/missing.webp"
-    },
-    {
-        "id": "6284d67f8e4092597733b7a4",
-        "name": "Alex (eng)",
-        "shortname": "Alex (eng)",
-        "image": "images/missing.webp"
-    },
-    {
-        "id": "6284d6948e4092597733b7a5",
-        "name": "Sergei (eng)",
-        "shortname": "Sergei (eng)",
-        "image": "images/missing.webp"
-    },
-    {
-        "id": "6284d6a28e4092597733b7a6",
-        "name": "Brent",
-        "shortname": "Brent",
-        "image": "images/greenbat.webp"
-    },
-    {
-        "id": "6284d6ab8e4092597733b7a7",
-        "name": "Patrick",
-        "shortname": "Patrick",
-        "image": "images/tnt_brick.webp"
     },
     {
         "id": "62850c28da09541f43158cca",
@@ -16264,13 +16187,13 @@
         "id": "628e1ffc83ec92260c0f437f",
         "name": "Gruppa 99 T30 backpack (Black)",
         "shortname": "T30",
-        "image": "images/30x160mm_shell.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "628e4dd1f477aa12234918aa",
         "name": "Big Pipe's bandana",
         "shortname": "Bandana",
-        "image": "images/bandana.webp"
+        "image": "images/Big_Pipes_bandana_icon.webp"
     },
     {
         "id": "628e4e576d783146b124c64d",
@@ -16282,49 +16205,49 @@
         "id": "62963c18dbc8ab5f0d382d0b",
         "name": "Death Knight mask",
         "shortname": "Death Knight",
-        "image": "images/missing.webp"
+        "image": "images/Death_Knight_mask_icon.webp"
     },
     {
         "id": "62987c658081af308d7558c6",
         "name": "Radar station commandant room key",
         "shortname": "Radar",
-        "image": "images/missing.webp"
+        "image": "images/RadarComKeyIcon.webp"
     },
     {
         "id": "62987cb98081af308d7558c8",
         "name": "Conference room key",
         "shortname": "Conf.",
-        "image": "images/missing.webp"
+        "image": "images/Conference_room_key_icon.webp"
     },
     {
         "id": "62987da96188c076bc0d8c51",
         "name": "Operating room key",
         "shortname": "OR",
-        "image": "images/missing.webp"
+        "image": "images/Operating_Room_Key_icon.webp"
     },
     {
         "id": "62987dfc402c7f69bf010923",
         "name": "Shared bedroom marked key",
         "shortname": "Bedroom",
-        "image": "images/labs_arsenal_storage_room.webp"
+        "image": "images/Shared_bedroom_marked_key_icon.webp"
     },
     {
         "id": "62987e26a77ec735f90a2995",
         "name": "Water treatment plant storage room key",
         "shortname": "WTP store",
-        "image": "images/missing.webp"
+        "image": "images/WTP_Store_Icon.webp"
     },
     {
         "id": "62a05c960a18b50b7c575b1b",
         "name": "BEAR Buddy plush toy",
         "shortname": "BEAR Buddy",
-        "image": "images/buddy.webp"
+        "image": "images/Buddy_icon.webp"
     },
     {
         "id": "62a091170b9d3c46de5b6cf2",
         "name": "Axel parrot figurine",
         "shortname": "Axel",
-        "image": "images/missing.webp"
+        "image": "images/Axel_parrot_icon.webp"
     },
     {
         "id": "62a09cb7a04c0c5c6e0a84f8",
@@ -16336,19 +16259,19 @@
         "id": "62a09cfe4f842e1bd12da3e4",
         "name": "Golden egg",
         "shortname": "Egg",
-        "image": "images/missing.webp"
+        "image": "images/Golden_egg_icon.webp"
     },
     {
         "id": "62a09d3bcf4a99369e262447",
         "name": "Gingy keychain",
         "shortname": "Gingy",
-        "image": "images/chainlet.webp"
+        "image": "images/Gingy-keychain-icon.webp"
     },
     {
         "id": "62a09d79de7ac81993580530",
         "name": "DRD body armor",
         "shortname": "DRD",
-        "image": "images/missing.webp"
+        "image": "images/DRD_body_armor.webp"
     },
     {
         "id": "62a09dd4621468534a797ac7",
@@ -16360,43 +16283,43 @@
         "id": "62a09e08de7ac81993580532",
         "name": "Glorious E lightweight armored mask",
         "shortname": "Glorious",
-        "image": "images/missing.webp"
+        "image": "images/Glori_mask.webp"
     },
     {
         "id": "62a09e410b9d3c46de5b6e78",
         "name": "JohnB Liquid DNB glasses",
         "shortname": "JohnB",
-        "image": "images/missing.webp"
+        "image": "images/JohnB_icon.webp"
     },
     {
         "id": "62a09e73af34e73a266d932a",
         "name": "BakeEzy cook book",
         "shortname": "BakeEzy",
-        "image": "images/missing.webp"
+        "image": "images/BakeEzy_Cook_Book_icon.webp"
     },
     {
         "id": "62a09e974f842e1bd12da3f0",
         "name": "Video cassette with the Cyborg Killer movie",
         "shortname": "VHS",
-        "image": "images/missing.webp"
+        "image": "images/VSH_cyborg_icon.webp"
     },
     {
         "id": "62a09ec84f842e1bd12da3f2",
         "name": "Missam forklift key",
         "shortname": "Danex",
-        "image": "images/missing.webp"
+        "image": "images/Missamkey.webp"
     },
     {
         "id": "62a09ee4cf4a99369e262453",
         "name": "Can of white salt",
         "shortname": "Salt",
-        "image": "images/can_of_beef_stew_alt.webp"
+        "image": "images/Can_of_salt_icon.webp"
     },
     {
         "id": "62a09f32621468534a797acb",
         "name": "Bottle of Pevko Light beer",
         "shortname": "Pevko",
-        "image": "images/missing.webp"
+        "image": "images/Pevko_beer_icon.webp"
     },
     {
         "id": "62a0a043cf4a99369e2624a5",
@@ -16420,19 +16343,19 @@
         "id": "62a0a124de7ac81993580542",
         "name": "Topographic survey maps",
         "shortname": "Maps",
-        "image": "images/psu.webp"
+        "image": "images/MapsIcon.webp"
     },
     {
         "id": "62a0a16d0b9d3c46de5b6e97",
         "name": "Military flash drive",
         "shortname": "MFD",
-        "image": "images/diary.webp"
+        "image": "images/MFD_icon.webp"
     },
     {
         "id": "62a1b7fbc30cfa1d366af586",
         "name": "Gruppa 99 T30 backpack (MultiCam)",
         "shortname": "T30",
-        "image": "images/30x160mm_shell.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "62a20c387949e8388b2f97c8",
@@ -16444,7 +16367,7 @@
         "id": "62a5c333ec21e50cad3b5dc6",
         "name": "Hockey player mask (Brawler)",
         "shortname": "Brawler",
-        "image": "images/awl.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "62a5c41e8ec41a51b34739c3",
@@ -16456,31 +16379,19 @@
         "id": "62a61bbf8ec41a51b34758d2",
         "name": "Big Pipe's smoking pipe",
         "shortname": "Pipe",
-        "image": "images/smoke.webp"
+        "image": "images/Big_Pipes_smoking_pipe_icon.webp"
     },
     {
         "id": "62a61c988ec41a51b34758d5",
         "name": "Oakley SI Batwolf glasses",
         "shortname": "Batwolf",
-        "image": "images/missing.webp"
+        "image": "images/Oakley_SI_Batwolf_icon.webp"
     },
     {
         "id": "62a9cb937377a65d7b070cef",
         "name": "Rogue USEC barrack key",
         "shortname": "Barrack",
-        "image": "images/missing.webp"
-    },
-    {
-        "id": "62a9e7d15ea3b87d6f642a28",
-        "name": "Danilov",
-        "shortname": "Danilov",
-        "image": "images/missing.webp"
-    },
-    {
-        "id": "62aca6a1310e67685a2fc2e7",
-        "name": "Haywood",
-        "shortname": "Haywood",
-        "image": "images/missing.webp"
+        "image": "images/Rogue_USEC_Barrack_key_icon.webp"
     },
     {
         "id": "62e14904c2699c0ec93adc47",
@@ -16582,7 +16493,7 @@
         "id": "62e910aaf957f2915e0a5e36",
         "name": "Digital secure DSP radio transmitter",
         "shortname": "DSPT",
-        "image": "images/missing.webp"
+        "image": "images/DSP_transmitter_icon.webp"
     },
     {
         "id": "62ea7c793043d74a0306e19f",
@@ -16618,12 +16529,6 @@
         "id": "62ed1921b3608410ef5a2c04",
         "name": "SR-2M side rail",
         "shortname": "SR-2M",
-        "image": "images/missing.webp"
-    },
-    {
-        "id": "62f10b79e7ee985f386b2f47",
-        "name": "Airdrop weapon crate",
-        "shortname": "Airdrop weapon crate",
         "image": "images/missing.webp"
     },
     {
@@ -16744,7 +16649,7 @@
         "id": "6331bb0d1aa9f42b804997a6",
         "name": "Secure Flash drive V3",
         "shortname": "V3 Flash",
-        "image": "images/secure_flash_drive.webp"
+        "image": "images/V3FlashIcon.webp"
     },
     {
         "id": "6333f05d1bc0e6217a0e9d34",
@@ -16768,30 +16673,12 @@
         "id": "633ec7c2a6918cb895019c6c",
         "name": "RSh-12 12.7x55 revolver",
         "shortname": "RSh-12",
-        "image": "images/roler.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "633ec8e4025b096d320a3b1e",
         "name": "RSh-12 pistol grip",
         "shortname": "RSh-12",
-        "image": "images/missing.webp"
-    },
-    {
-        "id": "633ffb5d419dbf4bea7004c6",
-        "name": "Airdrop weapon crate",
-        "shortname": "Airdrop weapon crate",
-        "image": "images/missing.webp"
-    },
-    {
-        "id": "634959225289190e5e773b3b",
-        "name": "Pumpkin with sweets",
-        "shortname": "Pumpkin",
-        "image": "images/pumping_station_back_door_key.webp"
-    },
-    {
-        "id": "63495c500c297e20065a08b1",
-        "name": "Old hand scythe",
-        "shortname": "Scythe",
         "image": "images/missing.webp"
     },
     {
@@ -16870,7 +16757,7 @@
         "id": "635267ab3c89e2112001f826",
         "name": "Spooky skull mask",
         "shortname": "Skull",
-        "image": "images/skullring.webp"
+        "image": "images/SpookySkullMaskIcon.webp"
     },
     {
         "id": "635267f063651329f75a4ee8",
@@ -16888,7 +16775,7 @@
         "id": "635a758bfefc88a93f021b8a",
         "name": "Salty Dog beef sausage",
         "shortname": "Sausage",
-        "image": "images/missing.webp"
+        "image": "images/Salty_dog_sausage_icon.webp"
     },
     {
         "id": "63611865ba5b90db0c0399d1",
@@ -16900,13 +16787,13 @@
         "id": "63626d904aa74b8fe30ab426",
         "name": "Zryachiy's balaclava",
         "shortname": "Zryachiy",
-        "image": "images/balaclava.webp"
+        "image": "images/Zryachiys_balaclava_icon.webp"
     },
     {
         "id": "636270263f2495c26f00b007",
         "name": "Zryachiy's balaclava (folded)",
         "shortname": "Zryachiy",
-        "image": "images/balaclava.webp"
+        "image": "images/ZryachiyBalaclavaFolded.webp"
     },
     {
         "id": "63737f448b28897f2802b874",
@@ -16918,13 +16805,13 @@
         "id": "6374a7e7417239a7bf00f042",
         "name": "PM bakelite side grips",
         "shortname": "PM bak.",
-        "image": "images/psu.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "6374a822e629013b9c0645c8",
         "name": "PM pistol slide",
         "shortname": "PM",
-        "image": "images/tools.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "637784c5f7b3f4ac1a0d1a9a",
@@ -16942,25 +16829,25 @@
         "id": "637b612fb7afa97bfc3d7005",
         "name": "SJ12 TGLabs combat stimulant injector",
         "shortname": "SJ12",
-        "image": "images/combat_stimulant_sj1.webp"
+        "image": "images/SJ12_icon.webp"
     },
     {
         "id": "637b6179104668754b72f8f5",
         "name": "PNB (Product 16) stimulant injector",
         "shortname": "PNB",
-        "image": "images/injector_case.webp"
+        "image": "images/PNB_icon.webp"
     },
     {
         "id": "637b620db7afa97bfc3d7009",
         "name": "Trimadol stimulant injector",
         "shortname": "Trimadol",
-        "image": "images/aramid.webp"
+        "image": "images/Trimadol_icon.webp"
     },
     {
         "id": "637b6251104668754b72f8f9",
         "name": "Perfotoran (Blue Blood) stimulant injector",
         "shortname": "Perfotoran",
-        "image": "images/injector_case.webp"
+        "image": "images/Perfotoran_icon.webp"
     },
     {
         "id": "637b6d610aef6cfc5e02dd14",
@@ -17014,7 +16901,7 @@
         "id": "637f589af5ef8c33840d36d3",
         "name": "AR-15 Strike Industries Viper carbine length M-LOK lower handguard",
         "shortname": "Viper AR15",
-        "image": "images/strike.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "6386120cd6baa055ad1e201c",
@@ -17068,61 +16955,55 @@
         "id": "6389c6463485cf0eeb260715",
         "name": "Pack of Arseniy buckwheat",
         "shortname": "Buckwheat",
-        "image": "images/cat.webp"
+        "image": "images/Buckwheat_icon.webp"
     },
     {
         "id": "6389c6c7dbfd5e4b95197e68",
         "name": "Aquapeps water purification tablets",
         "shortname": "Aquapeps",
-        "image": "images/bolts.webp"
+        "image": "images/Aquapeps_icon.webp"
     },
     {
         "id": "6389c70ca33d8c4cdf4932c6",
         "name": "Electronic components",
         "shortname": "EC",
-        "image": "images/missing.webp"
+        "image": "images/ElectronicComponents_icon.webp"
     },
     {
         "id": "6389c7750ef44505c87f5996",
         "name": "Microcontroller board",
         "shortname": "MB",
-        "image": "images/roler.webp"
+        "image": "images/Microcontrollerboard_icon.webp"
     },
     {
         "id": "6389c7f115805221fb410466",
         "name": "Far-forward GPS Signal Amplifier Unit",
         "shortname": "GPSA",
-        "image": "images/missing.webp"
+        "image": "images/GPSamplifier_icon.webp"
     },
     {
         "id": "6389c85357baa773a825b356",
         "name": "Advanced current converter",
         "shortname": "MCC",
-        "image": "images/missing.webp"
-    },
-    {
-        "id": "6389c88b33a719183c7f63b6",
-        "name": "Ultralink Satellite Internet Station",
-        "shortname": "Ultralink",
-        "image": "images/missing.webp"
+        "image": "images/Far_Forward_Current_Converter_Icon.webp"
     },
     {
         "id": "6389c8c5dbfd5e4b95197e6b",
         "name": "TerraGroup Blue Folders materials",
         "shortname": "Blue Folders",
-        "image": "images/roler.webp"
+        "image": "images/Blue_Folders_materials_icon.webp"
     },
     {
         "id": "6389c8fb46b54c634724d847",
         "name": "Silicon Optoelectronic Integrated Circuits textbook",
         "shortname": "SOIC",
-        "image": "images/circuit.webp"
+        "image": "images/SOIC_textbook_icon.webp"
     },
     {
         "id": "6389c92d52123d5dd17f8876",
         "name": "Advanced Electronic Materials textbook",
         "shortname": "AEM",
-        "image": "images/missing.webp"
+        "image": "images/Aem_textbook_icon.webp"
     },
     {
         "id": "6389f1dfc879ce63f72fc43e",
@@ -17134,13 +17015,13 @@
         "id": "638cbb3ba63f1b49be6a300e",
         "name": "Secure Flash drive",
         "shortname": "Flash",
-        "image": "images/model_7290_flash_bang.webp"
+        "image": "images/secure_flash_drive.webp"
     },
     {
         "id": "638cbc68a63f1b49be6a3010",
         "name": "Registered letter",
         "shortname": "Letter",
-        "image": "images/analog_thermometer.webp"
+        "image": "images/RegisteredLetterIcon.webp"
     },
     {
         "id": "638db77630c4240f9e06f8b6",
@@ -17158,25 +17039,19 @@
         "id": "638df4cc7b560b03794a18d2",
         "name": "AG guitar pick",
         "shortname": "Guitar pick",
-        "image": "images/missing.webp"
-    },
-    {
-        "id": "638dfc803083a019d447768e",
-        "name": "Working hard drive",
-        "shortname": "HDD",
-        "image": "images/missing.webp"
+        "image": "images/AG_guitar_pick_icon.webp"
     },
     {
         "id": "638e0057ab150a5f56238960",
         "name": "Housing office journal",
         "shortname": "Journal",
-        "image": "images/awl.webp"
+        "image": "images/Housing_office_journal.webp"
     },
     {
         "id": "638e9d5536b3b72c944e2fc7",
         "name": "Flash drive with recordings",
         "shortname": "Flash",
-        "image": "images/model_7290_flash_bang.webp"
+        "image": "images/Secure_flash_drive_ycnas_icon.webp"
     },
     {
         "id": "638f1ff84822287cad04be9d",
@@ -17191,12 +17066,6 @@
         "image": "images/missing.webp"
     },
     {
-        "id": "6391fcf5744e45201147080f",
-        "name": "Primorsky Ave apartment key",
-        "shortname": "Primorsky",
-        "image": "images/missing.webp"
-    },
-    {
         "id": "63920105a83e15700a00f168",
         "name": "SOG Voodoo Hawk tactical tomahawk",
         "shortname": "Hawk",
@@ -17206,13 +17075,13 @@
         "id": "63927b29c115f907b14700b9",
         "name": "Chemical container with samples",
         "shortname": "Chemcont",
-        "image": "images/missing.webp"
+        "image": "images/Chemical_container_with_samples.webp"
     },
     {
         "id": "6393262086e646067c176aa2",
         "name": "Medical observation record",
         "shortname": "Journal",
-        "image": "images/awl.webp"
+        "image": "images/Medical_Journal_1_icon.webp"
     },
     {
         "id": "639343fce101f4caa40a4ef3",
@@ -17242,37 +17111,37 @@
         "id": "63989ced706b793c7d60cfef",
         "name": "Informant's journal",
         "shortname": "Journal",
-        "image": "images/awl.webp"
+        "image": "images/Informants_Journal_Icon.webp"
     },
     {
         "id": "6398a072e301557ae24cec92",
         "name": "Lightkeeper intelligence",
         "shortname": "Intel",
-        "image": "images/folderwithintelligence.webp"
+        "image": "images/ForgedIntelIcon.webp"
     },
     {
         "id": "6398a0861c712b1e1d4dadf1",
         "name": "Forged Lightkeeper intelligence",
         "shortname": "Intel",
-        "image": "images/folderwithintelligence.webp"
+        "image": "images/ForgedIntelIcon.webp"
     },
     {
         "id": "6398a4cfb5992f573c6562b3",
         "name": "Secured tape",
         "shortname": "Tape",
-        "image": "images/construction_measuring_tape.webp"
+        "image": "images/SecuredTapeIcon.webp"
     },
     {
         "id": "6398fd8ad3de3849057f5128",
         "name": "Backup hideout key",
         "shortname": "Hideout",
-        "image": "images/missing.webp"
+        "image": "images/Backup_hideout_key_icon.webp"
     },
     {
         "id": "6399f54b0a36db13c823ad21",
         "name": "Radio transmitter body",
         "shortname": "Body",
-        "image": "images/missing.webp"
+        "image": "images/TransmitterBodyIcon.webp"
     },
     {
         "id": "639af924d0446708ee62294e",
@@ -17290,210 +17159,162 @@
         "id": "63a0b208f444d32d6f03ea1e",
         "name": "Fierce Blow sledgehammer",
         "shortname": "Sledgehammer",
-        "image": "images/missing.webp"
+        "image": "images/Fierce_blow_sledgehammer_icon.webp"
     },
     {
         "id": "63a0b2eabea67a6d93009e52",
         "name": "Radio repeater",
         "shortname": "Repeater",
-        "image": "images/missing.webp"
+        "image": "images/Radio_repeater_icon.webp"
     },
     {
         "id": "63a39667c9b3aa4b61683e98",
         "name": "Financial institution office key",
         "shortname": "Finance",
-        "image": "images/missing.webp"
+        "image": "images/Financial_institution_office_key_icon.webp"
     },
     {
         "id": "63a397d3af870e651d58e65b",
         "name": "Car dealership closed section key",
         "shortname": "LexOs sect.",
-        "image": "images/missing.webp"
+        "image": "images/Car_dealership_closed_section_key_icon.webp"
     },
     {
         "id": "63a399193901f439517cafb6",
         "name": "Car dealership director's office room key",
         "shortname": "LexOs",
-        "image": "images/missing.webp"
+        "image": "images/Car_dealership_directors_office_room_key_icon.webp"
     },
     {
         "id": "63a39c69af870e651d58e6aa",
         "name": "Store manager's key",
         "shortname": "Store",
-        "image": "images/radiatorhelix.webp"
+        "image": "images/Store_managers_key_icon.webp"
     },
     {
         "id": "63a39c7964283b5e9c56b280",
         "name": "Concordia security room key",
         "shortname": "Conc sec.",
-        "image": "images/missing.webp"
+        "image": "images/Concordia_security_room_key_icon.webp"
     },
     {
         "id": "63a39cb1c9b3aa4b61683ee2",
         "name": "Construction site bunkhouse key",
         "shortname": "Construct.",
-        "image": "images/construction_measuring_tape.webp"
+        "image": "images/Construction_site_bunkhouse_key_icon.webp"
     },
     {
         "id": "63a39ce4cd6db0635c1975fa",
         "name": "Supply department director's office key",
         "shortname": "Supp.",
-        "image": "images/missing.webp"
+        "image": "images/Supply_department_director%27s_office_key_icon.webp"
     },
     {
         "id": "63a39df18a56922e82001f25",
         "name": "Zmeisky 5 apartment 20 key",
         "shortname": "Zm apt. 20",
-        "image": "images/missing.webp"
+        "image": "images/Zmeevsky_5_apartment_20_key_icon.webp"
     },
     {
         "id": "63a39dfe3901f439517cafba",
         "name": "Zmeisky 3 apartment 8 key",
         "shortname": "Zm apt. 8",
-        "image": "images/missing.webp"
+        "image": "images/Zmeevsky_3_apartment_8_key_icon.webp"
     },
     {
         "id": "63a39e1d234195315d4020bd",
         "name": "Primorsky 46-48 skybridge key",
         "shortname": "Skybridge 46-48",
-        "image": "images/missing.webp"
+        "image": "images/Primorsky_46_underpass_key_icon.webp"
     },
     {
         "id": "63a39e49cd6db0635c1975fc",
         "name": "Archive room key",
         "shortname": "Archives",
-        "image": "images/missing.webp"
+        "image": "images/Archive_room_key_icon.webp"
     },
     {
         "id": "63a39f08cd6db0635c197600",
         "name": "Pinewood hotel room 215 key",
         "shortname": "Pnwd 215",
-        "image": "images/missing.webp"
+        "image": "images/Hotel_room_215_key_icon.webp"
     },
     {
         "id": "63a39f18c2d53c2c6839c1d3",
         "name": "Pinewood hotel room 206 key",
         "shortname": "Pnwd 206",
-        "image": "images/missing.webp"
+        "image": "images/Hotel_room_206_key_icon.webp"
     },
     {
         "id": "63a39f6e64283b5e9c56b289",
         "name": "Iron gate key",
         "shortname": "Iron gate",
-        "image": "images/missing.webp"
+        "image": "images/Iron_gate_key_icon.webp"
     },
     {
         "id": "63a39fc0af870e651d58e6ae",
         "name": "Chekannaya 15 apartment key",
         "shortname": "Chek 15",
-        "image": "images/missing.webp"
+        "image": "images/Chekannaya_15_apartment_key_icon.webp"
     },
     {
         "id": "63a39fd1c9b3aa4b61683efb",
         "name": "Stair landing key",
         "shortname": "Stairs",
-        "image": "images/missing.webp"
+        "image": "images/Stair_landing_key_icon.webp"
     },
     {
         "id": "63a39fdf1e21260da44a0256",
         "name": "Cargo container mesh door key",
         "shortname": "Container",
-        "image": "images/rgo.webp"
+        "image": "images/Cargo_container_mesh_door_key_icon.webp"
     },
     {
         "id": "63a3a93f8a56922e82001f5d",
         "name": "Abandoned factory marked key",
         "shortname": "Aband.",
-        "image": "images/bandana.webp"
+        "image": "images/Abandoned_factory_marked_key_icon.webp"
     },
     {
         "id": "63a71e781031ac76fe773c7d",
         "name": "Concordia apartment 8 room key",
         "shortname": "Conc 8",
-        "image": "images/missing.webp"
+        "image": "images/Concordia_apartment_8_key_icon.webp"
     },
     {
         "id": "63a71e86b7f4570d3a293169",
         "name": "Concordia apartment 64 office room key",
         "shortname": "Conc off.",
-        "image": "images/missing.webp"
+        "image": "images/Concordia_apartment_64_office_room_key_icon.webp"
     },
     {
         "id": "63a71e922b25f7513905ca20",
         "name": "Concordia apartment 64 key",
         "shortname": "Conc 64",
-        "image": "images/missing.webp"
+        "image": "images/Concordia_apartment_64_key_icon.webp"
     },
     {
         "id": "63a71eb5b7f4570d3a29316b",
         "name": "Primorsky 48 apartment key",
         "shortname": "Prim 48",
-        "image": "images/missing.webp"
+        "image": "images/Primorsky_48_apartment_key_icon.webp"
     },
     {
         "id": "63a71ed21031ac76fe773c7f",
         "name": "Financial institution small office key",
         "shortname": "Finance s",
-        "image": "images/missing.webp"
-    },
-    {
-        "id": "63a8970d7108f713591149f5",
-        "name": "Small Christmas gift",
-        "shortname": "Gift",
-        "image": "images/missing.webp"
-    },
-    {
-        "id": "63a897c6b1ff6e29734fcc95",
-        "name": "Large Christmas gift",
-        "shortname": "Gift",
-        "image": "images/missing.webp"
-    },
-    {
-        "id": "63a898a328e385334e0640a5",
-        "name": "Christmas gift",
-        "shortname": "Gift",
-        "image": "images/missing.webp"
-    },
-    {
-        "id": "63a8a3d48523141c3d055226",
-        "name": "BEAR SPN",
-        "shortname": "BEAR SPN",
-        "image": "images/missing.webp"
-    },
-    {
-        "id": "63a8a3f5dd384f7e8d716f9b",
-        "name": "USEC Mission",
-        "shortname": "USEC Mission",
-        "image": "images/missing.webp"
-    },
-    {
-        "id": "63a8a41e8523141c3d055228",
-        "name": "BEAR SPN",
-        "shortname": "BEAR SPN",
-        "image": "images/missing.webp"
-    },
-    {
-        "id": "63a8a446dd384f7e8d716f9d",
-        "name": "USEC Rangemaster",
-        "shortname": "USEC Rangemaster",
-        "image": "images/missing.webp"
+        "image": "images/Financial_institution_small_office_key_icon.webp"
     },
     {
         "id": "63a943cead5cc12f22161ff7",
         "name": "Accountant's notes",
         "shortname": "Notes",
-        "image": "images/missing.webp"
+        "image": "images/Accountants_notes.webp"
     },
     {
         "id": "63ac5c9658d0485fc039f0b8",
         "name": "AR-15 AlienTech 5.56x45 muzzle brake",
         "shortname": "AlienTech",
-        "image": "images/missing.webp"
-    },
-    {
-        "id": "63b35f281745dd52341e5da7",
-        "name": "F1 Shrapnel",
-        "shortname": "F1 Shrapnel",
         "image": "images/missing.webp"
     },
     {
@@ -17554,7 +17375,7 @@
         "id": "63fc449f5bd61c6cf3784a88",
         "name": "Armasight Zeus universal base",
         "shortname": "Zeus",
-        "image": "images/euros.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "63fc44e2429a8a166c7f61e6",
@@ -17566,7 +17387,7 @@
         "id": "63fc4533b10b17385349b565",
         "name": "Armasight Zeus-Pro scope eyecup",
         "shortname": "ZeusPro",
-        "image": "images/rgo.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "6405ff6bd4578826ec3e377a",
@@ -17971,12 +17792,6 @@
         "image": "images/missing.webp"
     },
     {
-        "id": "648c1a965043c4052a4f8505",
-        "name": "ebudal",
-        "shortname": "ebudal",
-        "image": "images/awl.webp"
-    },
-    {
         "id": "6491c6f6ef312a876705191b",
         "name": "PK Zenit B-50 handguard",
         "shortname": "B-50",
@@ -18112,7 +17927,7 @@
         "id": "64a5366719bab53bd203bf33",
         "name": "Eagle Allied Industries MBSS plate carrier (Coyote Brown)",
         "shortname": "MBSS",
-        "image": "images/strike.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "64abd93857958b4249003418",
@@ -18316,109 +18131,97 @@
         "id": "64ccc1d4a0f13c24561edf27",
         "name": "Concordia apartment 34 room key",
         "shortname": "Conc 34",
-        "image": "images/missing.webp"
+        "image": "images/Concordia_apartment_34_key_icon.webp"
     },
     {
         "id": "64ccc1ec1779ad6ba200a137",
         "name": "Concordia apartment 8 home cinema key",
         "shortname": "Cinema",
-        "image": "images/missing.webp"
+        "image": "images/Concordia_8_key_icon.webp"
     },
     {
         "id": "64ccc1f4ff54fb38131acf27",
         "name": "Concordia apartment 63 room key",
         "shortname": "Conc 63",
-        "image": "images/missing.webp"
+        "image": "images/Concordia_apartment_63_room_key_icon.webp"
     },
     {
         "id": "64ccc1fe088064307e14a6f7",
         "name": "Beluga restaurant director key",
         "shortname": "Beluga",
-        "image": "images/directors_key.webp"
+        "image": "images/Beluga_icon.webp"
     },
     {
         "id": "64ccc206793ca11c8f450a38",
         "name": "TerraGroup meeting room key",
         "shortname": "TG meeting",
-        "image": "images/missing.webp"
+        "image": "images/TerraGroup_meeting_room_key_icon.webp"
     },
     {
         "id": "64ccc2111779ad6ba200a139",
         "name": "Tarbank cash register department key",
         "shortname": "Tarbank",
-        "image": "images/powerbank.webp"
+        "image": "images/Tarbank_cash_register_key_icon.webp"
     },
     {
         "id": "64ccc246ff54fb38131acf29",
         "name": "X-ray room key",
         "shortname": "X-ray",
-        "image": "images/missing.webp"
+        "image": "images/X-ray_key_icon.webp"
     },
     {
         "id": "64ccc24de61ea448b507d34d",
         "name": "TerraGroup security armory key",
         "shortname": "TG arm.",
-        "image": "images/missing.webp"
+        "image": "images/TerraGroup_security_armory_key_icon.webp"
     },
     {
         "id": "64ccc25f95763a1ae376e447",
         "name": "Mysterious room marked key",
         "shortname": "Chek. 13",
-        "image": "images/marked_key.webp"
+        "image": "images/Mysterious_marked_key_icon.webp"
     },
     {
         "id": "64ccc268c41e91416064ebc7",
         "name": "PE teacher's office key",
         "shortname": "PE",
-        "image": "images/missing.webp"
+        "image": "images/PE_teachers_office_key_icon.webp"
     },
     {
         "id": "64ce572331dd890873175115",
         "name": "Aspect company office key",
         "shortname": "Aspect",
-        "image": "images/cat.webp"
+        "image": "images/22_company_office_key_icon.webp"
     },
     {
         "id": "64d0b40fbe2eed70e254e2d4",
         "name": "Sacred Amulet",
         "shortname": "Amulet",
-        "image": "images/mule_stimulator.webp"
-    },
-    {
-        "id": "64d116f41a9c6143a956127d",
-        "name": "Bank cash register",
-        "shortname": "Bank cash register",
-        "image": "images/oli_cash_register.webp"
-    },
-    {
-        "id": "64d11702dd0cd96ab82c3280",
-        "name": "Bank safe",
-        "shortname": "Bank safe",
-        "image": "images/missing.webp"
+        "image": "images/Sacred_Amulet_icon.webp"
     },
     {
         "id": "64d4b23dc1b37504b41ac2b6",
         "name": "Rusted bloody key",
         "shortname": "Rusted",
-        "image": "images/missing.webp"
+        "image": "images/RustedIcon.webp"
     },
     {
         "id": "64f07f7726cfa02c506f8ac0",
         "name": "Journal",
         "shortname": "Journal",
-        "image": "images/awl.webp"
+        "image": "images/JournalIcon.webp"
     },
     {
         "id": "64f09c02b63b74469b6c149f",
         "name": "Paramedic's GPhone X",
         "shortname": "GPX",
-        "image": "images/aramid.webp"
+        "image": "images/ParamedicsSmartphoneIcon.webp"
     },
     {
         "id": "64f5b4f71a5f313cb144c06c",
         "name": "Secret component",
         "shortname": "Vial",
-        "image": "images/awl.webp"
+        "image": "images/SecretComponentIcon.webp"
     },
     {
         "id": "64f69b4267e11a7c6206e010",
@@ -18494,13 +18297,13 @@
     },
     {
         "id": "6516e9bc5901745209404287",
-        "name": "Daniel Defense TCS 12mm Buttpad ",
+        "name": "Daniel Defense TCS 12mm Buttpad",
         "shortname": "TCS 12",
         "image": "images/missing.webp"
     },
     {
         "id": "6516e9d7e239bd0c487e3766",
-        "name": "Daniel Defense TCS 20mm Buttpad ",
+        "name": "Daniel Defense TCS 20mm Buttpad",
         "shortname": "TCS 20",
         "image": "images/missing.webp"
     },
@@ -18562,7 +18365,7 @@
         "id": "652910bc24cbe3c74a05e5b9",
         "name": "MCX SPEAR Adjustable Gas Piston",
         "shortname": "SPEAR gas",
-        "image": "images/wilston.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "652910ef50dc782999054b97",
@@ -18640,25 +18443,25 @@
         "id": "6530e8587cbfc1e309011e37",
         "name": "Vengeful Zryachiy's balaclava",
         "shortname": "Vengeful",
-        "image": "images/balaclava.webp"
+        "image": "images/Vengeful_Zryachiy_balaclava_Icon.webp"
     },
     {
         "id": "6531119b9afebff7ff0a1769",
         "name": "Vengeful Zryachiy's balaclava (folded)",
         "shortname": "Vengeful",
-        "image": "images/balaclava.webp"
+        "image": "images/Vengeful_Zryachiy_folded_Icon.webp"
     },
     {
         "id": "65392f611406374f82152ba5",
         "name": "GBRS Aimpoint Hydra Mount Kit (Black)",
         "shortname": "Hydra",
-        "image": "images/smoked_chimney_drain_cleaner.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "653931da5db71d30ab1d6296",
         "name": "GBRS Aimpoint Hydra Mount Kit (FDE)",
         "shortname": "Hydra",
-        "image": "images/smoked_chimney_drain_cleaner.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "653e6760052c01c1c805532f",
@@ -18709,18 +18512,6 @@
         "image": "images/missing.webp"
     },
     {
-        "id": "6543993a620afdbdb0051411",
-        "name": "Rizhy's jacket",
-        "shortname": "Rizhy",
-        "image": "images/missing.webp"
-    },
-    {
-        "id": "65439998155c8a2a1707d298",
-        "name": "Ryzhy's pants",
-        "shortname": "Ryzhy's",
-        "image": "images/missing.webp"
-    },
-    {
         "id": "6544d4187c5457729210d277",
         "name": "Axion Kobra EKP-1S-03 reflex sight (Dovetail)",
         "shortname": "EKP-1S-03",
@@ -18730,43 +18521,43 @@
         "id": "655c652d60d0ac437100fed7",
         "name": "BEAR operative figurine",
         "shortname": "BEAR",
-        "image": "images/raven_figurine.webp"
+        "image": "images/BEAR_operative_figurine_icon.webp"
     },
     {
         "id": "655c663a6689c676ce57af85",
         "name": "USEC operative figurine",
         "shortname": "USEC",
-        "image": "images/raven_figurine.webp"
+        "image": "images/USEC-Figurine-Icon.webp"
     },
     {
         "id": "655c669103999d3c810c025b",
         "name": "Cultist figurine",
         "shortname": "Cultist",
-        "image": "images/smt.webp"
+        "image": "images/Cultist_figurine_icon.webp"
     },
     {
         "id": "655c66e40b2de553b618d4b8",
         "name": "Politician Mutkevich figurine",
         "shortname": "Mutkevich",
-        "image": "images/missing.webp"
+        "image": "images/MutkevichFigurineGrid.webp"
     },
     {
         "id": "655c673673a43e23e857aebd",
         "name": "Scav figurine",
         "shortname": "Scav",
-        "image": "images/horse_figurine.webp"
+        "image": "images/Scavfigurineico.webp"
     },
     {
         "id": "655c67782a1356436041c9c5",
         "name": "Ryzhy figurine",
         "shortname": "Ryzhy",
-        "image": "images/horse_figurine.webp"
+        "image": "images/Ryzhy_icon.webp"
     },
     {
         "id": "655c67ab0d37ca5135388f4b",
         "name": "Ded Moroz figurine",
         "shortname": "Ded Moroz",
-        "image": "images/horse_figurine.webp"
+        "image": "images/Ded_Moroz_Figurine_icon.webp"
     },
     {
         "id": "655cb6b5d680a544f30607fa",
@@ -18778,7 +18569,7 @@
         "id": "655dccfdbdcc6b5df71382b6",
         "name": "Strike Industries Cobra Tactical foregrip (FDE)",
         "shortname": "SI Cobra",
-        "image": "images/strike.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "655df24fdf80b12750626d0a",
@@ -18802,31 +18593,31 @@
         "id": "6567e7681265c8a131069b0f",
         "name": "SIG TANGO6T 1-6x24 30mm riflescope",
         "shortname": "TANGO6T",
-        "image": "images/fleec.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "656ddcf0f02d7bcea90bf395",
         "name": "Tehinkom RK-PT-25 patrol backpack (Digital Flora)",
         "shortname": "RK-PT-25",
-        "image": "images/missing.webp"
+        "image": "images/Tehinkom_RK-PT-25_Icon.webp"
     },
     {
         "id": "656df4fec921ad01000481a2",
         "name": "Pack of instant noodles",
         "shortname": "Noodles",
-        "image": "images/tools.webp"
+        "image": "images/Noodles_Icon.webp"
     },
     {
         "id": "656e0436d44a1bb4220303a0",
         "name": "Mystery Ranch SATL Bridger Assault Pack (Foliage)",
         "shortname": "SATL",
-        "image": "images/missing.webp"
+        "image": "images/SATL-Foliage-Icon.webp"
     },
     {
         "id": "656f198fb27298d6fd005466",
         "name": "Direct Action Dragon Egg Mark II backpack (Black)",
         "shortname": "Dragon Egg MKII",
-        "image": "images/missing.webp"
+        "image": "images/DragonEggMkII.webp"
     },
     {
         "id": "657023a9126cc4a57d0e17a6",
@@ -19226,19 +19017,19 @@
     },
     {
         "id": "65702532cfc010a0f5006a19",
-        "name": "7.62x25mm \u0422\u0422 FMJ43 ammo pack (25 pcs)",
+        "name": "7.62x25mm TT FMJ43 ammo pack (25 pcs)",
         "shortname": "FMJ43",
         "image": "images/missing.webp"
     },
     {
         "id": "65702536c5d7d4cb4d078570",
-        "name": "7.62x25mm \u0422\u0422 LRN ammo pack (25 pcs)",
+        "name": "7.62x25mm TT LRN ammo pack (25 pcs)",
         "shortname": "LRN",
         "image": "images/missing.webp"
     },
     {
         "id": "6570253acfc010a0f5006a1c",
-        "name": "7.62x25mm \u0422\u0422 LRNPC ammo pack (25 pcs)",
+        "name": "7.62x25mm TT LRNPC ammo pack (25 pcs)",
         "shortname": "LRNPC",
         "image": "images/missing.webp"
     },
@@ -19588,7 +19379,7 @@
         "id": "65719f0775149d62ce0a670b",
         "name": "NPP KlASS Tor-2 helmet (Olive Drab)",
         "shortname": "Tor-2",
-        "image": "images/missing.webp"
+        "image": "Tor-2_Icon.webp"
     },
     {
         "id": "65719f9ef392ad76c50a2ec8",
@@ -19600,39 +19391,87 @@
         "id": "6571bde39837cc51b800c212",
         "name": "Ghost half-mask",
         "shortname": "Ghost",
-        "image": "images/ghostbalaclava.webp"
+        "image": "images/Skull_half-maskinv.webp"
     },
     {
         "id": "65749cb8e0423b9ebe0c79c9",
         "name": "Gus baseball cap",
         "shortname": "Gus",
-        "image": "images/usec1_key.webp"
+        "image": "images/Gus_baseball_cap_icon.webp"
     },
     {
         "id": "65749ccf33fdc9c0cf06d3ca",
         "name": "Basmach leather cap",
         "shortname": "Basmach",
-        "image": "images/esmarch.webp"
-    },
-    {
-        "id": "6574aa9a1b144de18c0fba45",
-        "name": "Nikolaev",
-        "shortname": "Nikolaev",
-        "image": "images/missing.webp"
-    },
-    {
-        "id": "6574aabee0423b9ebe0c79cf",
-        "name": "Blackburn",
-        "shortname": "Blackburn",
-        "image": "images/rgn.webp"
+        "image": "images/Basmach_leather_cap_icon.webp"
     },
     {
         "id": "6575a6ca8778e96ded05a802",
         "name": "TerraGroup scientist's hard drive",
         "shortname": "HDD",
-        "image": "images/missing.webp"
+        "image": "images/Working_hard_drive_icon.webp"
     },
     {
+        "id": "657acb2ac900be5902191ac9",
+        "name": "Cadastral registry records",
+        "shortname": "Records",
+        "image": "images/Cadastral_registry_records_Icon.webp"
+    },
+    {
+        "id": "65815f0e647e3d7246384e14",
+        "name": "Pack of Tarker dried meat",
+        "shortname": "Tarker",
+        "image": "images/Pack_of_Tarker_dried_meat_icon.webp"
+    },
+    {
+        "id": "6581998038c79576a2569e11",
+        "name": "Unity Credit Bank cash register key",
+        "shortname": "UC reg.",
+        "image": "images/United_Credit_Bank_Cash_Register_Key_Icon.webp"
+    },
+    {
+        "id": "658199972dc4e60f6d556a2f",
+        "name": "Underground parking utility room key",
+        "shortname": "Utility",
+        "image": "images/Underground_Parking_Utility_Room_Key_Icon.webp"
+    },
+    {
+        "id": "658199aa38c79576a2569e13",
+        "name": "TerraGroup science office key",
+        "shortname": "Science",
+        "image": "images/TerraGroup_science_office_key_icon.webp"
+    },
+    {
+        "id": "6582bd252b50c61c565828e2",
+        "name": "Bottle of Le Jean wine",
+        "shortname": "Wine",
+        "image": "images/Bottle_of_Le_Jean_wine_icon.webp"
+    },
+    {
+        "id": "6582dbe43a2e5248357dbe9a",
+        "name": "Negotiation room key",
+        "shortname": "Negotiations",
+        "image": "images/NegotiationIcon.webp"
+    },
+    {
+        "id": "6582dbf0b8d7830efc45016f",
+        "name": "Relaxation room key",
+        "shortname": "Relax",
+        "image": "images/RelatationRoomKeyIcon.webp"
+    },
+    {
+        "id": "6582dc4b6ba9e979af6b79f4",
+        "name": "MVD academy entrance hall guard room key",
+        "shortname": "MVD",
+        "image": "images/MVDAcademyEntranceHallKeyIcon.webp"
+    },
+    {
+        "id": "6582dc5740562727a654ebb1",
+        "name": "Real estate agency office room key",
+        "shortname": "REA",
+        "image": "images/RealEstateAgencyOfficeRoomIcon.webp"
+    },
+        {
         "id": "6576f4708ca9c4381d16cd9d",
         "name": "9x21mm 7N42 Zubilo",
         "shortname": "7N42",
@@ -19681,18 +19520,6 @@
         "image": "images/missing.webp"
     },
     {
-        "id": "657acb2ac900be5902191ac9",
-        "name": "Cadastral registry records",
-        "shortname": "Records",
-        "image": "images/powercord.webp"
-    },
-    {
-        "id": "65815f0e647e3d7246384e14",
-        "name": "Pack of Tarker dried meat",
-        "shortname": "Tarker",
-        "image": "images/cat.webp"
-    },
-    {
         "id": "658188edf026a90c1708c827",
         "name": "PSh-97 DJETA helmet built-in face shield",
         "shortname": "PSh-97 FS",
@@ -19705,51 +19532,51 @@
         "image": "images/missing.webp"
     },
     {
-        "id": "6581998038c79576a2569e11",
-        "name": "Unity Credit Bank cash register key",
-        "shortname": "UC reg.",
-        "image": "images/idearegisterkey.webp"
-    },
-    {
-        "id": "658199972dc4e60f6d556a2f",
-        "name": "Underground parking utility room key",
-        "shortname": "Utility",
-        "image": "images/power_utility_key.webp"
-    },
-    {
-        "id": "658199aa38c79576a2569e13",
-        "name": "TerraGroup science office key",
-        "shortname": "Science",
-        "image": "images/folderwithintelligence.webp"
-    },
-    {
-        "id": "6582bd252b50c61c565828e2",
-        "name": "Bottle of Le Jean wine",
-        "shortname": "Wine",
-        "image": "images/adrenaline.webp"
-    },
-    {
-        "id": "6582dbe43a2e5248357dbe9a",
-        "name": "Negotiation room key",
-        "shortname": "Negotiations",
+        "id": "59e77a2386f7742ee578960a",
+        "name": "7.62x54mm R PS gzh",
+        "shortname": "PS",
         "image": "images/missing.webp"
     },
     {
-        "id": "6582dbf0b8d7830efc45016f",
-        "name": "Relaxation room key",
-        "shortname": "Relax",
+        "id": "59e8977386f77415a553c453",
+        "name": "VPO-209 rear sight",
+        "shortname": "VPO209",
         "image": "images/missing.webp"
     },
     {
-        "id": "6582dc4b6ba9e979af6b79f4",
-        "name": "MVD academy entrance hall guard room key",
-        "shortname": "MVD",
+        "id": "59e898ee86f77427614bd225",
+        "name": "VPO-209 wooden handguard",
+        "shortname": "VPO209",
         "image": "images/missing.webp"
     },
     {
-        "id": "6582dc5740562727a654ebb1",
-        "name": "Real estate agency office room key",
-        "shortname": "REA",
+        "id": "59e89d0986f77427600d226e",
+        "name": "VPO-209 wooden stock",
+        "shortname": "VPO209",
+        "image": "images/missing.webp"
+    },
+    {
+        "id": "59e8a00d86f7742ad93b569c",
+        "name": "VPO-209 thread protector",
+        "shortname": "209 thr.",
+        "image": "images/missing.webp"
+    },
+    {
+        "id": "59eb7ebe86f7740b373438ce",
+        "name": "VSS/VAL TOZ 6P29M mount",
+        "shortname": "6P29M",
+        "image": "images/missing.webp"
+    },
+    {
+        "id": "59ecc28286f7746d7a68aa8c",
+        "name": "AKS-74/AKS-74U Zenit PT Lock",
+        "shortname": "PT 74S",
+        "image": "images/missing.webp"
+    },
+    {
+        "id": "59ecc3dd86f7746dc827481c",
+        "name": "AK Zenit PT-3 Klassika stock",
+        "shortname": "PT-3",
         "image": "images/missing.webp"
     },
     {
