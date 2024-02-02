@@ -759,7 +759,7 @@
         "id": "567143bf4bdc2d1a0f8b4567",
         "name": "Pistol case",
         "shortname": "Pistols",
-        "image": "images/tools.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5672c92d4bdc2d180f8b4567",
@@ -855,7 +855,7 @@
         "id": "56d5a407d2720bb3418b456b",
         "name": "P226R MK25 pistol slide",
         "shortname": "P226R",
-        "image": "images/tools.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "56d5a661d2720bd8418b456b",
@@ -981,7 +981,7 @@
         "id": "56e05a6ed2720bd0748b4567",
         "name": "PB bakelite side grips",
         "shortname": "PB bak.",
-        "image": "images/psu.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "56e05b06d2720bb2668b4586",
@@ -1089,7 +1089,7 @@
         "id": "5714dbc024597771384a510d",
         "name": "AR-15 Damage Industries ECS pistol grip (FDE)",
         "shortname": "ECS FDE",
-        "image": "images/strike.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "571a12c42459771f627b58a0",
@@ -1113,7 +1113,7 @@
         "id": "571a282c2459771fb2755a69",
         "name": "TT side grips",
         "shortname": "TT grips",
-        "image": "images/psu.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "571a28e524597720b4066567",
@@ -1137,7 +1137,7 @@
         "id": "572b7adb24597762ae139821",
         "name": "Scav Vest",
         "shortname": "Scav Vest",
-        "image": "images/smt.webp"
+        "image": "images/Scav_Vest_icon.webp"
     },
     {
         "id": "572b7d8524597762b472f9d1",
@@ -1257,19 +1257,19 @@
         "id": "57347baf24597738002c6178",
         "name": "RAM",
         "shortname": "RAM",
-        "image": "images/missing.webp"
+        "image": "images/Ramicon.webp"
     },
     {
         "id": "57347c1124597737fb1379e3",
         "name": "Duct tape",
         "shortname": "Duct tape",
-        "image": "images/ducttapekeycard.webp"
+        "image": "images/duct_tape.webp"
     },
     {
         "id": "57347c2e24597744902c94a1",
         "name": "Power supply unit",
         "shortname": "PSU",
-        "image": "images/missing.webp"
+        "image": "images/psu.webp"
     },
     {
         "id": "57347c5b245977448d35f6e1",
@@ -1305,25 +1305,25 @@
         "id": "57347d3d245977448f7b7f61",
         "name": "Rye croutons",
         "shortname": "Croutons",
-        "image": "images/missing.webp"
+        "image": "images/Rye_Croutons.webp"
     },
     {
         "id": "57347d5f245977448b40fa81",
         "name": "Can of humpback salmon",
         "shortname": "Humpback",
-        "image": "images/missing.webp"
+        "image": "images/Humpback_icon.webp"
     },
     {
         "id": "57347d692459774491567cf1",
         "name": "Can of green peas",
         "shortname": "Peas",
-        "image": "images/east_107_resort.webp"
+        "image": "images/Peas_icon.webp"
     },
     {
         "id": "57347d7224597744596b4e72",
         "name": "Can of beef stew (Small)",
         "shortname": "Tushonka",
-        "image": "images/can_of_beef_stew_alt.webp"
+        "image": "images/Can_of_beef_stew_Icon.webp"
     },
     {
         "id": "57347d8724597744596b4e76",
@@ -1341,13 +1341,13 @@
         "id": "57347d9c245977448b40fa85",
         "name": "Can of herring",
         "shortname": "Herring",
-        "image": "images/missing.webp"
+        "image": "images/Herring_icon.webp"
     },
     {
         "id": "57347da92459774491567cf5",
         "name": "Can of beef stew (Large)",
         "shortname": "Tushonka",
-        "image": "images/missing.webp"
+        "image": "images/can_of_beef_stew_alt.webp"
     },
     {
         "id": "5735fdcd2459776445391d61",
@@ -1383,7 +1383,7 @@
         "id": "573603562459776430731618",
         "name": "7.62x25mm TT Pst gzh",
         "shortname": "Pst",
-        "image": "images/smt.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "573603c924597764442bd9cb",
@@ -1449,7 +1449,7 @@
         "id": "5737201124597760fc4431f1",
         "name": "9x18mm PM Pst gzh",
         "shortname": "Pst",
-        "image": "images/smt.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5737207f24597760ff7b25f2",
@@ -1533,7 +1533,7 @@
         "id": "573727c624597765cc785b5b",
         "name": "9x18mm PM Pst gzh ammo pack (16 pcs)",
         "shortname": "Pst",
-        "image": "images/smt.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5737280e24597765cc785b5c",
@@ -1725,7 +1725,7 @@
         "id": "5739d41224597779c3645501",
         "name": "9x19mm Pst gzh ammo pack (16 pcs)",
         "shortname": "Pst",
-        "image": "images/smt.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "57486e672459770abd687134",
@@ -4163,7 +4163,7 @@
         "id": "59fafd4b86f7745ca07e1232",
         "name": "Key tool",
         "shortname": "Key tool",
-        "image": "images/tools.webp"
+        "image": "images/keybar.webp"
     },
     {
         "id": "59faff1d86f7746c51718c9c",
@@ -5051,25 +5051,25 @@
         "id": "5a6f5e048dc32e00094b97da",
         "name": "Glock 17 pistol slide",
         "shortname": "G17",
-        "image": "images/tools.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5a6f5f078dc32e00094b97dd",
         "name": "Glock Viper Cut pistol slide",
         "shortname": "G ViperCut",
-        "image": "images/tools.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5a702d198dc32e000b452fc3",
         "name": "Glock Lone Wolf AlphaWolf pistol slide",
         "shortname": "G AW",
-        "image": "images/tools.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5a7033908dc32e000a311392",
         "name": "Glock Lone Wolf AlphaWolf Custom pistol slide",
         "shortname": "G AW C",
-        "image": "images/tools.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5a70366c8dc32e001207fb06",
@@ -5129,13 +5129,13 @@
         "id": "5a71e22f8dc32e00094b97f4",
         "name": "Glock ZEV Tech HEX Gen3 RMR pistol slide",
         "shortname": "G ZT HEX",
-        "image": "images/tools.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5a71e4f48dc32e001207fb26",
         "name": "Glock ZEV Tech HEX Spartan RMR pistol slide",
         "shortname": "G ZT Spartan",
-        "image": "images/tools.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5a7828548dc32e5a9c28b516",
@@ -5291,13 +5291,13 @@
         "id": "5a7afa25e899ef00135e31b0",
         "name": "Glock Polymer80 PS9 pistol slide",
         "shortname": "G PS9",
-        "image": "images/tools.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5a7b32a2e899ef00135e345a",
         "name": "Glock 9x19 Strike Industries G4 SlideComp compensator",
         "shortname": "G G4",
-        "image": "images/strike.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5a7b483fe899ef0016170d15",
@@ -5309,7 +5309,7 @@
         "id": "5a7b4900e899ef197b331a2a",
         "name": "UM Tactical UM3 pistol sight mount",
         "shortname": "UM3",
-        "image": "images/tools.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5a7b4960e899ef197b331a2d",
@@ -10505,7 +10505,7 @@
         "id": "5d3eb44aa4b93650d64e4979",
         "name": "FN Five-seveN MK2 pistol slide",
         "shortname": "5-7",
-        "image": "images/tools.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "5d3eb4aba4b93650d64e497d",
@@ -13259,7 +13259,7 @@
         "id": "60228924961b8d75ee233c32",
         "name": "PL-15 pistol slide",
         "shortname": "PL15 slide",
-        "image": "images/tools.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "60228a76d62c9b14ed777a66",
@@ -14369,7 +14369,7 @@
         "id": "618167441cb55961fa0fdc71",
         "name": "FN SCAR cheek rest",
         "shortname": "SCAR",
-        "image": "images/smt.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "618167528004cc50514c34f9",
@@ -14681,7 +14681,7 @@
         "id": "6193d382ed0429009f543e65",
         "name": "HK USP .45 ACP pistol slide",
         "shortname": "USP45",
-        "image": "images/tools.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "6193d3be7c6c7b169525f0da",
@@ -16883,7 +16883,7 @@
         "id": "63969c9019971040b005049b",
         "name": "AR-15 Strike Industries Viper carbine length M-LOK lower handguard (FDE)",
         "shortname": "Viper AR15",
-        "image": "images/strike.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "6396aaa9a52ace83df0840ab",
@@ -18833,7 +18833,7 @@
         "id": "65702546cfc010a0f5006a1f",
         "name": "7.62x25mm TT Pst gzh ammo pack (25 pcs)",
         "shortname": "Pst",
-        "image": "images/smt.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "6570254abfc87b3a34093244",
@@ -18935,7 +18935,7 @@
         "id": "657025a81419851aef03e724",
         "name": "9x19mm Pst gzh ammo pack (50 pcs)",
         "shortname": "Pst",
-        "image": "images/smt.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "657025bbcfc010a0f5006a35",
@@ -19043,7 +19043,7 @@
         "id": "6570262d1419851aef03e72d",
         "name": "9x18mm PM Pst gzh ammo pack (50 pcs)",
         "shortname": "Pst",
-        "image": "images/smt.webp"
+        "image": "images/missing.webp"
     },
     {
         "id": "65702630cfc010a0f5006a4a",
