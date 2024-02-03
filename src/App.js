@@ -28,7 +28,7 @@ const SearchableList = () => {
                     item.name.toLowerCase().includes(searchTerm.toLowerCase()) ||
                     (item.shortname && item.shortname.toLowerCase().includes(searchTerm.toLowerCase())),
             )
-            .slice(0, 10); // Display only the first 10 items
+            .slice(0, 5); // Display only the first 5 items
 
         setDisplayedItems(filteredItems);
     }, [data, searchTerm]);
@@ -164,8 +164,12 @@ const SearchableList = () => {
                         class='file-input file-input-bordered file-input-primary w-full max-w-xs'
                         onChange={handleImportSelectedItems}
                     />
-
                     <br />
+                    <label for='save'>Clear Item Set:</label>
+                    <br />
+                    <button class='btn btn-primary' onClick={handleClearSelectedItems} style={{ marginTop: '10px' }}>
+                    Clear
+                    </button>
                     <br />
                     <label for='save'>Save Current Item Set:</label>
                     <br />
@@ -204,9 +208,7 @@ const SearchableList = () => {
                         </li>
                     ))}
                 </ul>
-                <button class='btn btn-primary' onClick={handleClearSelectedItems} style={{ marginTop: '10px' }}>
-                    Clear Selected Items
-                </button>
+                
             </div>
         </div>
     );
