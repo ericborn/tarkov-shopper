@@ -1,45 +1,15 @@
 [
     {
-        "id": "5447a9cd4bdc2dbd208b4567",
-        "name": "Colt M4A1 5.56x45 assault rifle",
-        "shortname": "M4A1",
-        "image": "images/missing.webp"
-    },
-    {
-        "id": "5447ac644bdc2d6c208b4567",
-        "name": "5.56x45mm M855 ammo pack (50 pcs)",
-        "shortname": "M855 pack",
-        "image": "images/missing.webp"
+        "id": "544fb45d4bdc2dee738b4568",
+        "name": "Salewa first aid kit",
+        "shortname": "Salewa",
+        "image": "images/eft_salewa_first_aid_kit_2.webp"
     },
     {
         "id": "5448ba0b4bdc2d02308b456c",
         "name": "Factory emergency exit key",
         "shortname": "Factory",
         "image": "images/Factory_key.webp"
-    },
-    {
-        "id": "5448bd6b4bdc2dfc2f8b4569",
-        "name": "Makarov PM 9x18PM pistol",
-        "shortname": "PM",
-        "image": "images/missing.webp"
-    },
-    {
-        "id": "5448be9a4bdc2dfd2f8b456a",
-        "name": "RGD-5 hand grenade",
-        "shortname": "RGD-5",
-        "image": "images/rgd_5_grenade.webp"
-    },
-    {
-        "id": "5448c12b4bdc2d02308b456f",
-        "name": "PM 9x18PM 90-93 8-round magazine",
-        "shortname": "PM mag",
-        "image": "images/missing.webp"
-    },
-    {
-        "id": "5448c1d04bdc2dff2f8b4569",
-        "name": "5.56x45 Magpul PMAG 20 GEN M3 STANAG 20-round magazine",
-        "shortname": "GEN M3 mag",
-        "image": "images/missing.webp"
     },
     {
         "id": "5448fee04bdc2dbc018b4567",
@@ -162,12 +132,6 @@
         "image": "images/eft_morphine.webp"
     },
     {
-        "id": "544fb45d4bdc2dee738b4568",
-        "name": "Salewa first aid kit",
-        "shortname": "Salewa",
-        "image": "images/eft_salewa_first_aid_kit_2.webp"
-    },
-    {
         "id": "544fb5454bdc2df8738b456a",
         "name": "Leatherman Multitool",
         "shortname": "MultiTool",
@@ -261,7 +225,7 @@
         "id": "558032614bdc2de7118b4585",
         "name": "TangoDown Stubby BGV-MK46K foregrip (Black)",
         "shortname": "BGV-MK46K",
-        "image": "images/missing.webp"
+        "image": "images/bgv_stubby_black.webp"
     },
     {
         "id": "559ba5b34bdc2d1f1a8b4582",
@@ -771,13 +735,13 @@
         "id": "5672cb124bdc2d1a0f8b4568",
         "name": "AA Battery",
         "shortname": "AA batt.",
-        "image": "images/missing.webp"
+        "image": "images/aa_battery.webp"
     },
     {
         "id": "5672cb304bdc2dc2088b456a",
         "name": "D Size battery",
         "shortname": "D batt.",
-        "image": "images/car_battery.webp"
+        "image": "images/d_size_battery.webp"
     },
     {
         "id": "5672cb724bdc2dc2088b456b",
@@ -789,7 +753,7 @@
         "id": "5673de654bdc2d180f8b456d",
         "name": "Can of pacific saury",
         "shortname": "Saury",
-        "image": "images/missing.webp"
+        "image": "images/Saury_icon.webp"
     },
     {
         "id": "56742c284bdc2d98058b456d",
@@ -1173,7 +1137,7 @@
         "id": "5733279d245977289b77ec24",
         "name": "Car battery",
         "shortname": "Car battery",
-        "image": "images/aa_battery_2.webp"
+        "image": "images/car_battery.webp"
     },
     {
         "id": "573474f924597738002c6174",
@@ -1767,25 +1731,25 @@
         "id": "575062b524597720a31c09a1",
         "name": "Can of Ice Green tea",
         "shortname": "IceGreen",
-        "image": "images/missing.webp"
+        "image": "images/Green_Tea_icon.webp"
     },
     {
         "id": "57513f07245977207e26a311",
         "name": "Pack of apple juice",
         "shortname": "Apple",
-        "image": "images/pineapple_juice.webp"
+        "image": "images/Apple_Juice_icon.webp"
     },
     {
         "id": "57513f9324597720a7128161",
         "name": "Pack of Grand juice",
         "shortname": "Grand",
-        "image": "images/missing.webp"
+        "image": "images/Grand_Juice_icon.webp"
     },
     {
         "id": "57513fcc24597720a31c09a6",
         "name": "Pack of Vita juice",
         "shortname": "Vita",
-        "image": "images/missing.webp"
+        "image": "images/Vita_Juice_icon.webp"
     },
     {
         "id": "5751435d24597720a27126d1",
@@ -1797,25 +1761,25 @@
         "id": "57514643245977207f2c2d09",
         "name": "Can of TarCola soda",
         "shortname": "TarCola",
-        "image": "images/missing.webp"
+        "image": "images/Tar_Cola_icon.webp"
     },
     {
         "id": "575146b724597720a27126d5",
         "name": "Pack of milk",
         "shortname": "Milk",
-        "image": "images/missing.webp"
+        "image": "images/Pack_ofMilk_icon.webp"
     },
     {
         "id": "5751487e245977207e26a315",
         "name": "Emelya rye croutons",
         "shortname": "Emelya",
-        "image": "images/missing.webp"
+        "image": "images/Emeyla_Croutons.webp"
     },
     {
         "id": "5751496424597720a27126da",
         "name": "Can of Hot Rod energy drink",
         "shortname": "Hot Rod",
-        "image": "images/nrg_drink.webp"
+        "image": "images/hot_rod.webp"
     },
     {
         "id": "5751a25924597722c463c472",
@@ -1827,13 +1791,13 @@
         "id": "5751a89d24597722aa0e8db0",
         "name": "Golden Star balm",
         "shortname": "GoldenStar",
-        "image": "images/goldentt.webp"
+        "image": "images/golden_star_balm.webp"
     },
     {
         "id": "5755356824597772cb798962",
         "name": "AI-2 medkit",
         "shortname": "AI-2",
-        "image": "images/missing.webp"
+        "image": "images/ai_2.webp"
     },
     {
         "id": "5755383e24597772cb798966",
@@ -2799,7 +2763,7 @@
         "id": "58c157be86f77403c74b2bb6",
         "name": "TangoDown Stubby BGV-MK46K foregrip (FDE)",
         "shortname": "BGV-MK46K FDE",
-        "image": "images/missing.webp"
+        "image": "images/bgv_stubby_fde.webp"
     },
     {
         "id": "58c157c886f774032749fb06",
@@ -4973,7 +4937,7 @@
         "id": "5a6860d886f77411cd3a9e47",
         "name": "Secure Folder 0060",
         "shortname": "60",
-        "image": "images/30x160mm_shell.webp"
+        "image": "images/Docs_0060_icon.webp"
     },
     {
         "id": "5a687e7886f7740c4a5133fb",
@@ -16859,7 +16823,7 @@
         "id": "63927b29c115f907b14700b9",
         "name": "Chemical container with samples",
         "shortname": "Chemcont",
-        "image": "images/Chemical_container_with_samples.webp"
+        "image": "images/Chemical-Container_icon.webp"
     },
     {
         "id": "6393262086e646067c176aa2",
@@ -19361,6 +19325,42 @@
         "id": "59ecc3dd86f7746dc827481c",
         "name": "AK Zenit PT-3 Klassika stock",
         "shortname": "PT-3",
+        "image": "images/missing.webp"
+    },
+    {
+        "id": "5447a9cd4bdc2dbd208b4567",
+        "name": "Colt M4A1 5.56x45 assault rifle",
+        "shortname": "M4A1",
+        "image": "images/missing.webp"
+    },
+    {
+        "id": "5447ac644bdc2d6c208b4567",
+        "name": "5.56x45mm M855 ammo pack (50 pcs)",
+        "shortname": "M855 pack",
+        "image": "images/missing.webp"
+    },
+    {
+        "id": "5448bd6b4bdc2dfc2f8b4569",
+        "name": "Makarov PM 9x18PM pistol",
+        "shortname": "PM",
+        "image": "images/missing.webp"
+    },
+    {
+        "id": "5448be9a4bdc2dfd2f8b456a",
+        "name": "RGD-5 hand grenade",
+        "shortname": "RGD-5",
+        "image": "images/rgd_5_grenade.webp"
+    },
+    {
+        "id": "5448c12b4bdc2d02308b456f",
+        "name": "PM 9x18PM 90-93 8-round magazine",
+        "shortname": "PM mag",
+        "image": "images/missing.webp"
+    },
+    {
+        "id": "5448c1d04bdc2dff2f8b4569",
+        "name": "5.56x45 Magpul PMAG 20 GEN M3 STANAG 20-round magazine",
+        "shortname": "GEN M3 mag",
         "image": "images/missing.webp"
     },
     {
