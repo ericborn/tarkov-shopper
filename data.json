@@ -21,7 +21,7 @@
         "id": "5448ff904bdc2d6f028b456e",
         "name": "Army crackers",
         "shortname": "Crackers",
-        "image": "images/army_crackers_icon.webp"
+        "image": "images/army_crackers.webp"
     },
     {
         "id": "5449016a4bdc2d6f028b456f",
@@ -45,7 +45,7 @@
         "id": "54491bb74bdc2d09088b4567",
         "name": "ER FULCRUM BAYONET",
         "shortname": "ER BAYONET",
-        "image": "images/missing.webp"
+        "image": "images/ER_Fulcrum_Bayonet.webp"
     },
     {
         "id": "54491c4f4bdc2db1078b4568",
@@ -1185,19 +1185,19 @@
         "id": "5734779624597737e04bf329",
         "name": "CPU fan",
         "shortname": "CPU fan",
-        "image": "images/missing.webp"
+        "image": "images/cpu_fan.webp"
     },
     {
         "id": "573477e124597737dd42e191",
         "name": "PC CPU",
         "shortname": "CPU",
-        "image": "images/missing.webp"
+        "image": "images/pc_cpu.webp"
     },
     {
         "id": "5734781f24597737e04bf32a",
         "name": "DVD drive",
         "shortname": "DVD",
-        "image": "images/missing.webp"
+        "image": "images/dvd_drive.webp"
     },
     {
         "id": "573478bc24597738002c6175",
@@ -1209,13 +1209,13 @@
         "id": "5734795124597738002c6176",
         "name": "Insulating tape",
         "shortname": "Tape",
-        "image": "images/construction_measuring_tape.webp"
+        "image": "images/insulating_tape.webp"
     },
     {
         "id": "57347b8b24597737dd42e192",
         "name": "Classic matches",
         "shortname": "Matches",
-        "image": "images/huntermatches.webp"
+        "image": "images/Matches_Icon.webp"
     },
     {
         "id": "57347baf24597738002c6178",
@@ -1251,7 +1251,7 @@
         "id": "57347c93245977448d35f6e3",
         "name": "Toothpaste",
         "shortname": "Toothpaste",
-        "image": "images/ortodontox_toothpaste.webp"
+        "image": "images/Toothpasteicon.webp"
     },
     {
         "id": "57347ca924597744596b4e71",
@@ -2307,7 +2307,7 @@
         "id": "57e26fc7245977162a14b800",
         "name": "Bars A-2607 95Kh18 knife",
         "shortname": "A-2607",
-        "image": "images/missing.webp"
+        "image": "images/a_2607_bars.webp"
     },
     {
         "id": "57e3dba62459770f0c32322b",
