@@ -126,29 +126,31 @@ const SearchableList = () => {
     return (
         <div style={{ padding: '35px' }}>
             <div className='text-3xl font-bold text-center'>Tarkov Shopper</div>
-            <div className=' flex w-full justify-around mt-4'>
-                <div className='card gap-2  card-bordered border-primary border-2'>
-                    <div className='card-body items-center'>
-                        <input
-                            type='text'
-                            placeholder='Search for an item...'
-                            class='input input-bordered input-primary w-full max-w-xs'
-                            value={searchTerm}
-                            onChange={handleSearchChange}
-                        />
-                        <ul className='flex flex-col gap-2 items-center'>
-                            {displayedItems.map((item) => (
-                                <li className=''>
-                                    <button
-                                        class='btn btn-primary btn-outline text-lg'
-                                        key={item.id}
-                                        onClick={() => handleItemClick(item.id)}
-                                    >
-                                        {item.name}
-                                    </button>
-                                </li>
-                            ))}
-                        </ul>
+            <div className=' flex w-full mt-4 gap-6'>
+                <div className='w-1/3'>
+                    <div className='card gap-2 card-bordered border-primary border-2'>
+                        <div className='card-body items-center'>
+                            <input
+                                type='text'
+                                placeholder='Search for an item...'
+                                class='input input-bordered input-primary w-full max-w-xs'
+                                value={searchTerm}
+                                onChange={handleSearchChange}
+                            />
+                            <ul className='flex flex-col gap-2 items-center'>
+                                {displayedItems.map((item) => (
+                                    <li className=''>
+                                        <button
+                                            class='btn btn-primary btn-outline text-lg h-auto'
+                                            key={item.id}
+                                            onClick={() => handleItemClick(item.id)}
+                                        >
+                                            {item.name}
+                                        </button>
+                                    </li>
+                                ))}
+                            </ul>
+                        </div>
                     </div>
                 </div>
                 <div>
@@ -177,7 +179,7 @@ const SearchableList = () => {
                         <br />
                         <label for='save'>Save Current Item Set:</label>
                         <br />
-                        <button class='btnbtn btn-primary btn-outline text-lg' onClick={handleSaveSelectedItems}>
+                        <button class='btn btn-primary btn-outline text-lg' onClick={handleSaveSelectedItems}>
                             Save
                         </button>
                         <br />
