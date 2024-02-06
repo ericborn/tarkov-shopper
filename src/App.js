@@ -18,17 +18,16 @@ const SearchableList = () => {
         };
 
         fetchData();
-    }, []); // Empty dependency array means this effect runs once when the component mounts
+    }, []);
 
     useEffect(() => {
-        // Update the displayed items when the data or search term changes
         const filteredItems = data
             .filter(
                 (item) =>
                     item.name.toLowerCase().includes(searchTerm.toLowerCase()) ||
                     (item.shortname && item.shortname.toLowerCase().includes(searchTerm.toLowerCase())),
             )
-            .slice(0, 5); // Display only the first 5 items
+            .slice(0, 5);
 
         setDisplayedItems(filteredItems);
     }, [data, searchTerm]);
@@ -42,15 +41,20 @@ const SearchableList = () => {
         const existingSelectedItem = selectedItems.find((item) => item.id === itemId);
 
         if (existingSelectedItem) {
-            // If the item is already in the selectedItems list, increase its quantity
             const updatedSelectedItems = selectedItems.map((item) =>
                 item.id === itemId ? { ...item, quantity: item.quantity + 1 } : item,
             );
             setSelectedItems(updatedSelectedItems);
         } else {
-            // If the item is not in the selectedItems list, add it with an initial quantity of 1
             setSelectedItems([...selectedItems, { ...selectedItem, quantity: 1 }]);
         }
+    };
+
+    const handleQuantityChange = (itemId, newQuantity) => {
+        const updatedSelectedItems = selectedItems.map((item) =>
+            item.id === itemId ? { ...item, quantity: newQuantity } : item,
+        );
+        setSelectedItems(updatedSelectedItems);
     };
 
     const handleIncreaseQuantity = (itemId) => {
@@ -64,11 +68,13 @@ const SearchableList = () => {
         const updatedSelectedItems = selectedItems.map((item) =>
             item.id === itemId && item.quantity > 0 ? { ...item, quantity: item.quantity - 1 } : item,
         );
-
-        // Remove the item from the selectedItems list if the quantity is decreased to 1
         const filteredSelectedItems = updatedSelectedItems.filter((item) => item.quantity > 0);
-
         setSelectedItems(filteredSelectedItems);
+    };
+
+    const handleRemoveItem = (itemId) => {
+        const updatedSelectedItems = selectedItems.filter((item) => item.id !== itemId);
+        setSelectedItems(updatedSelectedItems);
     };
 
     const handleClearSelectedItems = () => {
@@ -191,7 +197,7 @@ const SearchableList = () => {
                             Sort Z-A
                         </button>
                         <button class='btn btn-primary btn-outline text-lg' onClick={handleSortByTotalQuantity}>
-                            Sort by Total Quantity
+                            Sort by Highest Quantity
                         </button>
                         <button class='btn btn-primary btn-outline text-lg' onClick={handleSortByReverseTotalQuantity}>
                             Sort by Lowest Quantity
@@ -206,11 +212,21 @@ const SearchableList = () => {
                                     style={{
                                         marginRight: '10px',
                                         marginLeft: '10px',
-                                    }} // Adjust styles as needed
+                                    }}
                                 />
-                                {selectedItem.name} - Quantity: {selectedItem.quantity}{' '}
-                                <button onClick={() => handleDecreaseQuantity(selectedItem.id)}><img src='images/icon-minus.png' alt='-'/></button>
-                                <button onClick={() => handleIncreaseQuantity(selectedItem.id)}><img src='images/icon-plus.png' alt='+'/></button>{' '}
+                                {selectedItem.name} - Quantity: {' '}
+                                <input id="quantity"
+                                    type="number"
+                                    value={selectedItem.quantity}
+                                    onChange={(e) => handleQuantityChange(selectedItem.id, parseInt(e.target.value))}
+                                className="input input-bordered input-primary input-xs w-full max-w-xs" />
+                                <button onClick={() => handleDecreaseQuantity(selectedItem.id)}>
+                                    <img src='images/icon-minus.png' alt='-' />
+                                </button>
+                                <button onClick={() => handleIncreaseQuantity(selectedItem.id)}>
+                                    <img src='images/icon-plus.png' alt='+' />
+                                </button>{' '}
+                                <button onClick={() => handleRemoveItem(selectedItem.id)}>Remove</button>
                             </li>
                         ))}
                     </ul>
