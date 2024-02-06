@@ -16,10 +16,19 @@ code {
     monospace;
 }
 
-#quantity{
+#quantity {
   width: 80px;
 }
 
 label {
   font-size: 15px;
+}
+
+#sort-button {
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+#item-button {
+  line-height: 100%;
 }

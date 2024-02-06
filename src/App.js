@@ -133,12 +133,12 @@ const SearchableList = () => {
         <div style={{ padding: '35px' }}>
             <div className='text-3xl font-bold text-center'>Tarkov Shopper</div>
                 <div className=' flex w-full mt-4 gap-6'>
-                    <div className='w-1/3'>
+                    <div className='w-1/2'>
                         <div className='card gap-2 card-bordered border-primary border-2'>
                             <div className='card-body items-center'>
                                 <input
                                     type='text'
-                                    placeholder='Search for an item...'
+                                    placeholder='Search...'
                                     class='input input-bordered input-primary w-full max-w-xs'
                                     value={searchTerm}
                                     onChange={handleSearchChange}
@@ -148,6 +148,7 @@ const SearchableList = () => {
                                         <li className=''>
                                             <button
                                                 class='btn btn-primary btn-outline text-lg h-auto'
+                                                id='item-button'
                                                 key={item.id}
                                                 onClick={() => handleItemClick(item.id)}>
                                                 {item.name}
@@ -167,6 +168,7 @@ const SearchableList = () => {
                                 <input
                                     type='file'
                                     id='load'
+                                    display='none'
                                     name='load'
                                     accept='.json'
                                     class='file-input file-input-bordered file-input-primary w-full max-w-xs'
@@ -181,16 +183,16 @@ const SearchableList = () => {
                     </div>
                 <div>
                     <div style={{ marginBottom: '10px' }}>
-                        <button class='btn btn-primary btn-outline text-lg' onClick={handleSortAlphabetically}>
+                        <button id='sort-button' class='btn btn-primary btn-outline text-lg' onClick={handleSortAlphabetically}>
                             Sort A-Z
                         </button>
-                        <button class='btn btn-primary btn-outline text-lg' onClick={handleSortReverseAlphabetically}>
+                        <button id='sort-button' class='btn btn-primary btn-outline text-lg' onClick={handleSortReverseAlphabetically}>
                             Sort Z-A
                         </button>
-                        <button class='btn btn-primary btn-outline text-lg' onClick={handleSortByTotalQuantity}>
+                        <button id='sort-button' class='btn btn-primary btn-outline text-lg' onClick={handleSortByTotalQuantity}>
                             Sort by Highest Quantity
                         </button>
-                        <button class='btn btn-primary btn-outline text-lg' onClick={handleSortByReverseTotalQuantity}>
+                        <button id='sort-button' class='btn btn-primary btn-outline text-lg' onClick={handleSortByReverseTotalQuantity}>
                             Sort by Lowest Quantity
                         </button>
                     </div>
