@@ -132,64 +132,57 @@ const SearchableList = () => {
     return (
         <div style={{ padding: '35px' }}>
             <div className='text-3xl font-bold text-center'>Tarkov Shopper</div>
-            <div className=' flex w-full mt-4 gap-6'>
-                <div className='w-1/3'>
-                    <div className='card gap-2 card-bordered border-primary border-2'>
-                        <div className='card-body items-center'>
-                            <input
-                                type='text'
-                                placeholder='Search for an item...'
-                                class='input input-bordered input-primary w-full max-w-xs'
-                                value={searchTerm}
-                                onChange={handleSearchChange}
-                            />
-                            <ul className='flex flex-col gap-2 items-center'>
-                                {displayedItems.map((item) => (
-                                    <li className=''>
-                                        <button
-                                            class='btn btn-primary btn-outline text-lg h-auto'
-                                            key={item.id}
-                                            onClick={() => handleItemClick(item.id)}
-                                        >
-                                            {item.name}
-                                        </button>
-                                    </li>
-                                ))}
-                            </ul>
+                <div className=' flex w-full mt-4 gap-6'>
+                    <div className='w-1/3'>
+                        <div className='card gap-2 card-bordered border-primary border-2'>
+                            <div className='card-body items-center'>
+                                <input
+                                    type='text'
+                                    placeholder='Search for an item...'
+                                    class='input input-bordered input-primary w-full max-w-xs'
+                                    value={searchTerm}
+                                    onChange={handleSearchChange}
+                                />
+                                <ul className='flex flex-col gap-2 items-center'>
+                                    {displayedItems.map((item) => (
+                                        <li className=''>
+                                            <button
+                                                class='btn btn-primary btn-outline text-lg h-auto'
+                                                key={item.id}
+                                                onClick={() => handleItemClick(item.id)}>
+                                                {item.name}
+                                            </button>
+                                        </li>
+                                    ))}
+                                </ul>
+                            </div>
+                            <div className='card-body items-center'>
+                                <label for='save'>Clear all items:</label>
+                                <button
+                                    className='btn btn-primary btn-outline text-lg'
+                                    onClick={handleClearSelectedItems}
+                                    style={{ marginTop: '10px' }}>
+                                    Clear
+                                </button>
+                                <label for='load'>Load an item set:</label>
+                                <input
+                                    type='file'
+                                    id='load'
+                                    name='load'
+                                    accept='.json'
+                                    class='file-input file-input-bordered file-input-primary w-full max-w-xs'
+                                    onChange={handleImportSelectedItems}
+                                />
+                                <label for='save'>Save the item set:</label>
+                                <button class='btn btn-primary btn-outline text-lg' onClick={handleSaveSelectedItems}>
+                                Save
+                                </button>
+                            </div>
                         </div>
                     </div>
-                </div>
                 <div>
                     <h2>Selected Items</h2>
                     <div style={{ marginBottom: '10px' }}>
-                        <label for='load'>Load a saved set:</label>
-                        <br />
-                        <input
-                            type='file'
-                            id='load'
-                            name='load'
-                            accept='.json'
-                            class='file-input file-input-bordered file-input-primary w-full max-w-xs'
-                            onChange={handleImportSelectedItems}
-                        />
-                        <br />
-                        <label for='save'>Clear Item Set:</label>
-                        <br />
-                        <button
-                            className='btn btn-primary btn-outline text-lg'
-                            onClick={handleClearSelectedItems}
-                            style={{ marginTop: '10px' }}
-                        >
-                            Clear
-                        </button>
-                        <br />
-                        <label for='save'>Save Current Item Set:</label>
-                        <br />
-                        <button class='btn btn-primary btn-outline text-lg' onClick={handleSaveSelectedItems}>
-                            Save
-                        </button>
-                        <br />
-                        <br />
                         <button class='btn btn-primary btn-outline text-lg' onClick={handleSortAlphabetically}>
                             Sort A-Z
                         </button>
@@ -219,14 +212,16 @@ const SearchableList = () => {
                                     type="number"
                                     value={selectedItem.quantity}
                                     onChange={(e) => handleQuantityChange(selectedItem.id, parseInt(e.target.value))}
-                                className="input input-bordered input-primary input-xs w-full max-w-xs" />
+                                className="input input-bordered input-primary input-sm w-full max-w-xs"/>
                                 <button onClick={() => handleDecreaseQuantity(selectedItem.id)}>
-                                    <img src='images/icon-minus.png' alt='-' />
+                                    <img src='images/icon-minus.png' alt='-'/>
                                 </button>
                                 <button onClick={() => handleIncreaseQuantity(selectedItem.id)}>
-                                    <img src='images/icon-plus.png' alt='+' />
+                                    <img src='images/icon-plus.png' alt='+'/>
                                 </button>{' '}
-                                <button onClick={() => handleRemoveItem(selectedItem.id)}>Remove</button>
+                                <button onClick={() => handleRemoveItem(selectedItem.id)}>
+                                    <img src='images/icon-remove.png' alt='x'/>
+                                </button>
                             </li>
                         ))}
                     </ul>
