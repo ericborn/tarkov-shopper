@@ -157,14 +157,13 @@ const SearchableList = () => {
                                 </ul>
                             </div>
                             <div className='card-body items-center'>
-                                <label for='save'>Clear all items:</label>
+                                <label for='clear'>Clear all items:</label>
                                 <button
                                     className='btn btn-primary btn-outline text-lg'
-                                    onClick={handleClearSelectedItems}
-                                    style={{ marginTop: '10px' }}>
+                                    onClick={handleClearSelectedItems}>
                                     Clear
                                 </button>
-                                <label for='load'>Load an item set:</label>
+                                <label for='load'>Load a saved set:</label>
                                 <input
                                     type='file'
                                     id='load'
@@ -173,7 +172,7 @@ const SearchableList = () => {
                                     class='file-input file-input-bordered file-input-primary w-full max-w-xs'
                                     onChange={handleImportSelectedItems}
                                 />
-                                <label for='save'>Save the item set:</label>
+                                <label for='save'>Save current set:</label>
                                 <button class='btn btn-primary btn-outline text-lg' onClick={handleSaveSelectedItems}>
                                 Save
                                 </button>
@@ -181,7 +180,6 @@ const SearchableList = () => {
                         </div>
                     </div>
                 <div>
-                    <h2>Selected Items</h2>
                     <div style={{ marginBottom: '10px' }}>
                         <button class='btn btn-primary btn-outline text-lg' onClick={handleSortAlphabetically}>
                             Sort A-Z

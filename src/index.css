@@ -19,3 +19,7 @@ code {
 #quantity{
   width: 80px;
 }
+
+label {
+  font-size: 15px;
+}

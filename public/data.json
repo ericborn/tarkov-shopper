@@ -1,5 +1,29 @@
 [
     {
+        "id": "5448ff904bdc2d6f028b456e",
+        "name": "Army crackers",
+        "shortname": "Crackers",
+        "image": "images/army_crackers.webp"
+    },
+    {
+        "id": "57347c5b245977448d35f6e1",
+        "name": "Bolts",
+        "shortname": "Bolts",
+        "image": "images/bolts.webp"
+    },
+    {
+        "id": "5448fee04bdc2dbc018b4567",
+        "name": "Bottle of water (0.6L)",
+        "shortname": "Water",
+        "image": "images/Water_icon.webp"
+    },
+    {
+        "id": "544fb3f34bdc2d03748b456a",
+        "name": "Morphine injector",
+        "shortname": "Morphine",
+        "image": "images/eft_morphine.webp"
+    },
+    {
         "id": "544fb45d4bdc2dee738b4568",
         "name": "Salewa first aid kit",
         "shortname": "Salewa",
@@ -10,18 +34,6 @@
         "name": "Factory emergency exit key",
         "shortname": "Factory",
         "image": "images/Factory_key.webp"
-    },
-    {
-        "id": "5448fee04bdc2dbc018b4567",
-        "name": "Bottle of water (0.6L)",
-        "shortname": "Water",
-        "image": "images/Water_icon.webp"
-    },
-    {
-        "id": "5448ff904bdc2d6f028b456e",
-        "name": "Army crackers",
-        "shortname": "Crackers",
-        "image": "images/army_crackers.webp"
     },
     {
         "id": "5449016a4bdc2d6f028b456f",
@@ -124,12 +136,6 @@
         "name": "Analgin painkillers",
         "shortname": "Analgin",
         "image": "images/analgin_painkillers_Icon.webp"
-    },
-    {
-        "id": "544fb3f34bdc2d03748b456a",
-        "name": "Morphine injector",
-        "shortname": "Morphine",
-        "image": "images/eft_morphine.webp"
     },
     {
         "id": "544fb5454bdc2df8738b456a",
@@ -1234,12 +1240,6 @@
         "name": "Power supply unit",
         "shortname": "PSU",
         "image": "images/psu.webp"
-    },
-    {
-        "id": "57347c5b245977448d35f6e1",
-        "name": "Bolts",
-        "shortname": "Bolts",
-        "image": "images/bolts.webp"
     },
     {
         "id": "57347c77245977448d35f6e2",
