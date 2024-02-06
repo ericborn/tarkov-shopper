@@ -209,8 +209,8 @@ const SearchableList = () => {
                                     }} // Adjust styles as needed
                                 />
                                 {selectedItem.name} - Quantity: {selectedItem.quantity}{' '}
-                                <button onClick={() => handleDecreaseQuantity(selectedItem.id)}>-</button>
-                                <button onClick={() => handleIncreaseQuantity(selectedItem.id)}>+</button>{' '}
+                                <button onClick={() => handleDecreaseQuantity(selectedItem.id)}><img src='/images/icon-minus.png' alt='-'/></button>
+                                <button onClick={() => handleIncreaseQuantity(selectedItem.id)}><img src='/images/icon-plus.png' alt='+'/></button>{' '}
                             </li>
                         ))}
                     </ul>
