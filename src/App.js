@@ -125,90 +125,94 @@ const SearchableList = () => {
 
     return (
         <div style={{ padding: '35px' }}>
-            <div class='navbar rounded-box bg-primary text-primary-content'>
-                <button class='btn btn-ghost text-xl'>Tarkov Shopper</button>
-            </div>
-            <div style={{ marginTop: '10px' }}>
-                <input
-                    type='text'
-                    placeholder='Search for an item...'
-                    class='input input-bordered input-primary w-full max-w-xs'
-                    value={searchTerm}
-                    onChange={handleSearchChange}
-                />
-                <ul style={{ listStyleType: 'none' }}>
-                    {displayedItems.map((item) => (
-                        <li style={{ marginTop: '10px' }}>
-                            <button
-                                class='btn btn-primary'
-                                style={{ padding: '3px' }}
-                                key={item.id}
-                                onClick={() => handleItemClick(item.id)}
-                            >
-                                {item.name}
-                            </button>
-                        </li>
-                    ))}
-                </ul>
-            </div>
-            <div>
-                <h2>Selected Items</h2>
-                <div style={{ marginBottom: '10px' }}>
-                    <label for='load'>Load a saved set:</label>
-                    <br />
-                    <input
-                        type='file'
-                        id='load'
-                        name='load'
-                        accept='.json'
-                        class='file-input file-input-bordered file-input-primary w-full max-w-xs'
-                        onChange={handleImportSelectedItems}
-                    />
-                    <br />
-                    <label for='save'>Clear Item Set:</label>
-                    <br />
-                    <button class='btn btn-primary' onClick={handleClearSelectedItems} style={{ marginTop: '10px' }}>
-                    Clear
-                    </button>
-                    <br />
-                    <label for='save'>Save Current Item Set:</label>
-                    <br />
-                    <button class='btn btn-primary' onClick={handleSaveSelectedItems}>
-                        Save
-                    </button>
-                    <br />
-                    <br />
-                    <button class='btn btn-primary' onClick={handleSortAlphabetically}>
-                        Sort A-Z
-                    </button>
-                    <button class='btn btn-primary' onClick={handleSortReverseAlphabetically}>
-                        Sort Z-A
-                    </button>
-                    <button class='btn btn-primary' onClick={handleSortByTotalQuantity}>
-                        Sort by Total Quantity
-                    </button>
-                    <button class='btn btn-primary' onClick={handleSortByReverseTotalQuantity}>
-                        Sort by Lowest Quantity
-                    </button>
+            <div className='text-3xl font-bold text-center'>Tarkov Shopper</div>
+            <div className=' flex w-full justify-around mt-4'>
+                <div className='card gap-2  card-bordered border-primary border-2'>
+                    <div className='card-body items-center'>
+                        <input
+                            type='text'
+                            placeholder='Search for an item...'
+                            class='input input-bordered input-primary w-full max-w-xs'
+                            value={searchTerm}
+                            onChange={handleSearchChange}
+                        />
+                        <ul className='flex flex-col gap-2 items-center'>
+                            {displayedItems.map((item) => (
+                                <li className=''>
+                                    <button
+                                        class='btn btn-primary btn-outline text-lg'
+                                        key={item.id}
+                                        onClick={() => handleItemClick(item.id)}
+                                    >
+                                        {item.name}
+                                    </button>
+                                </li>
+                            ))}
+                        </ul>
+                    </div>
                 </div>
-                <ul style={{ display: 'flex', flexDirection: 'column', gap: '10px' }}>
-                    {selectedItems.map((selectedItem) => (
-                        <li key={selectedItem.id} style={{ display: 'flex', alignItems: 'center' }}>
-                            <img
-                                src={selectedItem.image}
-                                alt={selectedItem.name}
-                                style={{
-                                    marginRight: '10px',
-                                    marginLeft: '10px',
-                                }} // Adjust styles as needed
-                            />
-                            {selectedItem.name} - Quantity: {selectedItem.quantity}{' '}
-                            <button onClick={() => handleDecreaseQuantity(selectedItem.id)}>-</button>
-                            <button onClick={() => handleIncreaseQuantity(selectedItem.id)}>+</button>{' '}
-                        </li>
-                    ))}
-                </ul>
-                
+                <div>
+                    <h2>Selected Items</h2>
+                    <div style={{ marginBottom: '10px' }}>
+                        <label for='load'>Load a saved set:</label>
+                        <br />
+                        <input
+                            type='file'
+                            id='load'
+                            name='load'
+                            accept='.json'
+                            class='file-input file-input-bordered file-input-primary w-full max-w-xs'
+                            onChange={handleImportSelectedItems}
+                        />
+                        <br />
+                        <label for='save'>Clear Item Set:</label>
+                        <br />
+                        <button
+                            className='btn btn-primary btn-outline text-lg'
+                            onClick={handleClearSelectedItems}
+                            style={{ marginTop: '10px' }}
+                        >
+                            Clear
+                        </button>
+                        <br />
+                        <label for='save'>Save Current Item Set:</label>
+                        <br />
+                        <button class='btnbtn btn-primary btn-outline text-lg' onClick={handleSaveSelectedItems}>
+                            Save
+                        </button>
+                        <br />
+                        <br />
+                        <button class='btn btn-primary btn-outline text-lg' onClick={handleSortAlphabetically}>
+                            Sort A-Z
+                        </button>
+                        <button class='btn btn-primary btn-outline text-lg' onClick={handleSortReverseAlphabetically}>
+                            Sort Z-A
+                        </button>
+                        <button class='btn btn-primary btn-outline text-lg' onClick={handleSortByTotalQuantity}>
+                            Sort by Total Quantity
+                        </button>
+                        <button class='btn btn-primary btn-outline text-lg' onClick={handleSortByReverseTotalQuantity}>
+                            Sort by Lowest Quantity
+                        </button>
+                    </div>
+                    <ul style={{ display: 'flex', flexDirection: 'column', gap: '10px' }}>
+                        {selectedItems.map((selectedItem) => (
+                            <li key={selectedItem.id} style={{ display: 'flex', alignItems: 'center' }}>
+                                <img
+                                    src={selectedItem.image}
+                                    alt={selectedItem.name}
+                                    style={{
+                                        marginRight: '10px',
+                                        marginLeft: '10px',
+                                    }} // Adjust styles as needed
+                                />
+                                {selectedItem.name} - Quantity: {selectedItem.quantity}{' '}
+                                <button onClick={() => handleDecreaseQuantity(selectedItem.id)}>-</button>
+                                <button onClick={() => handleIncreaseQuantity(selectedItem.id)}>+</button>{' '}
+                            </li>
+                        ))}
+                    </ul>
+                </div>
             </div>
         </div>
     );
