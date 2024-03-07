@@ -4,7 +4,6 @@ import {
     AutocompleteOption,
     FormControl,
     ListItemContent,
-    ListItemDecorator,
     Typography,
     styled,
 } from '@mui/joy';
@@ -37,9 +36,6 @@ function renderRow(props: ListChildComponentProps) {
 
     return (
         <AutocompleteOption {...dataSet[0]} style={inlineStyle}>
-            <ListItemDecorator>
-                <img src={item.image} alt={item.name} style={{ maxWidth: '30px' }} />
-            </ListItemDecorator>
             <ListItemContent>{item.name}</ListItemContent>
         </AutocompleteOption>
     );
