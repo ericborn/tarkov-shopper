@@ -717,7 +717,7 @@
         "id": "5656eb674bdc2d35148b457c",
         "name": "40mm VOG-25 grenade",
         "shortname": "VOG-25",
-        "image": "images/f_1_grenade.webp"
+        "image": "images/40_vog_25.webp"
     },
     {
         "id": "566abbc34bdc2d92178b4576",
@@ -2835,7 +2835,7 @@
         "id": "58d3db5386f77426186285a0",
         "name": "M67 hand grenade",
         "shortname": "M67",
-        "image": "images/f_1_grenade.webp"
+        "image": "images/m67.webp"
     },
     {
         "id": "58dd3ad986f77403051cba8f",
@@ -4229,7 +4229,7 @@
         "id": "5a0c27731526d80618476ac4",
         "name": "Zarya stun grenade",
         "shortname": "Zarya",
-        "image": "images/f_1_grenade.webp"
+        "image": "images/zarya_stun_grenade.webp"
     },
     {
         "id": "5a0c59791526d8dba737bba7",
@@ -10889,7 +10889,7 @@
         "id": "5d70e500a4b9364de70d38ce",
         "name": "30x29mm VOG-30",
         "shortname": "VOG-30",
-        "image": "images/missing.webp"
+        "image": "images/VOG-30_icon.webp"
     },
     {
         "id": "5d7b6bafa4b93652786f4c76",
@@ -15359,25 +15359,25 @@
         "id": "62389aaba63f32501b1b444f",
         "name": "26x75mm flare cartridge (Green)",
         "shortname": "Green",
-        "image": "images/26x75_flare_cartridge_29.webp"
+        "image": "images/26x75_flare_cartridge_green_29.webp"
     },
     {
         "id": "62389ba9a63f32501b1b4451",
         "name": "26x75mm flare cartridge (Red)",
         "shortname": "Red",
-        "image": "images/26x75_flare_cartridge_29.webp"
+        "image": "images/26x75_flare_cartridge_red_29.webp"
     },
     {
         "id": "62389bc9423ed1685422dc57",
         "name": "26x75mm flare cartridge (White)",
         "shortname": "Flare",
-        "image": "images/26x75_flare_cartridge_29.webp"
+        "image": "images/26x75_flare_cartridge_white_29.webp"
     },
     {
         "id": "62389be94d5d474bf712e709",
         "name": "26x75mm flare cartridge (Yellow)",
         "shortname": "Yellow",
-        "image": "images/26x75_flare_cartridge_29.webp"
+        "image": "images/26x75_flare_cartridge_yellow_29.webp"
     },
     {
         "id": "623b2e9d11c3296b440d1638",
@@ -16511,13 +16511,13 @@
         "id": "635267f063651329f75a4ee8",
         "name": "26x75mm distress signal flare (Poison Green)",
         "shortname": "DSF",
-        "image": "images/missing.webp"
+        "image": "images/GreenHalloweenFlairIcon.webp"
     },
     {
         "id": "6357c98711fb55120211f7e1",
         "name": "M203 40mm underbarrel grenade launcher",
         "shortname": "M203",
-        "image": "images/dorm_203.webp"
+        "image": "images/M203_Icon.webp"
     },
     {
         "id": "635a758bfefc88a93f021b8a",
@@ -16529,7 +16529,7 @@
         "id": "63611865ba5b90db0c0399d1",
         "name": "Azimut SS Khamelion chest harness (Olive)",
         "shortname": "Khamelion",
-        "image": "images/missing.webp"
+        "image": "images/Azimut_SS_22_chest_harness_29_icon.webp"
     },
     {
         "id": "63626d904aa74b8fe30ab426",
