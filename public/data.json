@@ -1725,7 +1725,7 @@
         "id": "57505f6224597709a92585a9",
         "name": "Alyonka chocolate bar",
         "shortname": "Alyonka",
-        "image": "images/missing.webp"
+        "image": "images/Alyonka_Chocolate_Bar_icon.webp"
     },
     {
         "id": "575062b524597720a31c09a1",
@@ -14034,12 +14034,6 @@
         "name": "AK CSS knurled charging handle",
         "shortname": "CSS AK",
         "image": "images/missing.webp"
-    },
-    {
-        "id": "614451b71e5874611e2c7ae5",
-        "name": "Bottle of Tarkovskaya vodka",
-        "shortname": "Vodka",
-        "image": "images/VodkaIcon.webp"
     },
     {
         "id": "615d8d878004cc50514c3233",
